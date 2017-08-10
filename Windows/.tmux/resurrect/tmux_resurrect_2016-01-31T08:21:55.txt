@@ -1,0 +1,18 @@
+pane	ConvectionDiffusion	1	:vim	0	:-	0	:/home/josh/Programming/Python/py.2DConvectionAdvection	1	vim	:vim SteadyConvectionDiffusion.py
+pane	ConvectionDiffusion	2	:..tionAdvection	1	:*	0	:/home/josh/Programming/Python/py.2DConvectionAdvection	1	zsh	:
+pane	ConvectionDiffusion	2	:..tionAdvection	1	:*	1	:/home/josh/Programming/Python/py.2DConvectionAdvection	0	zsh	:
+pane	ConvectionDiffusion	2	:..tionAdvection	1	:*	2	:/home/josh	0	htop	:htop
+pane	Helmholtz	1	:htop	1	:*	0	:/home/josh/Programming/Python/py.2DHelmholtz	0	zsh	:
+pane	Helmholtz	1	:htop	1	:*	1	:/home/josh	1	zsh	:
+pane	Helmholtz	1	:htop	1	:*	2	:/home/josh	0	htop	:htop
+pane	Helmholtz	2	:vim	0	:-	0	:/home/josh	1	zsh	:
+pane	ShockTubeSPH	1	:..an/for.NewSPH	1	:*	0	:/home/josh/Programming/Fortran/for.NewSPH	1	zsh	:
+pane	ShockTubeSPH	1	:..an/for.NewSPH	1	:*	1	:/home/josh/Programming/Fortran/for.NewSPH	0	zsh	:
+pane	markdown	1	:vim	1	:*	0	:/home/josh	1	vim	:vim GTLDocuments/Tasks.md
+window	ConvectionDiffusion	1	0	:-	e602,206x57,0,0,23
+window	ConvectionDiffusion	2	1	:*	85c0,206x57,0,0{103x57,0,0,29,102x57,104,0[102x28,104,0,30,102x28,104,29,31]}
+window	Helmholtz	1	1	:*	a5bf,206x57,0,0{103x57,0,0,35,102x57,104,0[102x28,104,0,37,102x28,104,29,38]}
+window	Helmholtz	2	0	:-	6606,206x57,0,0,36
+window	ShockTubeSPH	1	1	:*	45b0,206x57,0,0{103x57,0,0,32,102x57,104,0,33}
+window	markdown	1	1	:*	cba2,206x57,0,0,5
+state	Helmholtz	ConvectionDiffusion

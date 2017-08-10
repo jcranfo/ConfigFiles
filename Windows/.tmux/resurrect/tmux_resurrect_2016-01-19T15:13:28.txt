@@ -1,0 +1,14 @@
+pane	Augmentor	1	:..ata and Codes	1	:*	0	:/home/josh/Contracts/AFR-104-AugmentorDamping/3. Data and Codes/mat.AF_WP_PIV_for_hydro_0p60_BiGlobal	0	vim	:vim 4. Acoustic Flow/TwoD_CartesianCompressibleHIV2.m
+pane	Augmentor	1	:..ata and Codes	1	:*	1	:/home/josh/Contracts/AFR-104-AugmentorDamping/3. Data and Codes/mat.AF_WP_PIV_for_hydro_0p60_BiGlobal	0	sh	:sh /home/josh/ShellScripts/MatlabNoDesktop.sh
+pane	Augmentor	1	:..ata and Codes	1	:*	2	:/home/josh/Contracts/AFR-104-AugmentorDamping/3. Data and Codes	1	zsh	:
+pane	UnstructuredHeat	1	:vim	1	:*	0	:/home/josh/Programming/Python/py.2DUnstructuredUnsteadyHeat	1	vim	:vim UnsteadyHeatEquation.py
+pane	UnstructuredHeat	2	:python	0	:-	0	:/home/josh/Programming/Python/py.2DUnstructuredUnsteadyHeat	1	python	:python UnsteadyHeatEquation.py
+python UnsteadyHeatEquation.py
+pane	UnstructuredHeat	2	:python	0	:-	1	:/home/josh/Programming/Python/py.2DUnstructuredUnsteadyHeat	0	zsh	:
+pane	UnstructuredHeat	2	:python	0	:-	2	:/home/josh	0	htop	:htop
+pane	markdown	1	:vim	1	:*	0	:/home/josh	1	vim	:vim Desktop/Tasks.md
+window	Augmentor	1	1	:*	2927,206x57,0,0{103x57,0,0,16,102x57,104,0[102x34,104,0,17,102x22,104,35,18]}
+window	UnstructuredHeat	1	1	:*	cba2,206x57,0,0,5
+window	UnstructuredHeat	2	0	:-	b178,206x57,0,0{103x57,0,0,6,102x57,104,0[102x27,104,0,8,102x29,104,28,10]}
+window	markdown	1	1	:*	cba1,206x57,0,0,4
+state	UnstructuredHeat	Augmentor

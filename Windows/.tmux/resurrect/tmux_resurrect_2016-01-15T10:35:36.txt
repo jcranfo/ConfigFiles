@@ -1,0 +1,11 @@
+pane	0	1	:~	1	:*	0	:/home/josh	1	zsh	:
+pane	Advection	1	:vim	1	:*	0	:/home/josh/Programming/Python	1	vim	:vim -S
+pane	Advection	2	:vim	0	:-	0	:/home/josh/Programming/Python/py.2DAdvectionV2	0	zsh	:
+pane	Advection	2	:vim	0	:-	1	:/home/josh/Programming/Python	1	zsh	:
+pane	Advection	2	:vim	0	:-	2	:/home/josh/Programming/Python/py.2DAdvectionV2	0	vim	:vim -S
+pane	Markdown	1	:vim	1	:*	0	:/home/josh	1	vim	:vim -S
+window	0	1	1	:*	cb9e,206x57,0,0,1
+window	Advection	1	1	:*	cb9f,206x57,0,0,2
+window	Advection	2	0	:-	f241,206x57,0,0{103x57,0,0,3,102x57,104,0[102x28,104,0,4,102x28,104,29,5]}
+window	Markdown	1	1	:*	cba3,206x57,0,0,6
+state	Advection	Markdown
