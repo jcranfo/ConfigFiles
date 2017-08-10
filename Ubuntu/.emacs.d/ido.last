@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/jake.cranford@corp.gtlcompany.com/ConfigFiles/" . "Ubuntu/")
  ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/" . "Transient/")
  ("/media/Data/Projects/InjectorStudy/Admittance/" . "1InjOptions/")
  ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/" . "c++/")
@@ -90,6 +91,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/jake.cranford@corp.gtlcompany.com/ConfigFiles/Ubuntu/"
  "/media/Data/Projects/HMNF2DHeatRelease/"
  "/media/Data/Projects/InjectorStudy/Admittance/"
  "/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD170InjectorSensitivity/"
@@ -139,11 +141,12 @@
  "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/SimDAT/"
  "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/MSFCSIMDATTransfer/cpp.SimDAT/"
  "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/RES-101 China Lake/"
- "/home/josh.batterson@corp.gtlcompany.com/Desktop/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "MakeLinks.sh"
+ "ClearLinks.sh"
  "GridProcessingoptions.inp"
  "boundaryfilegenerator.py"
  "Convertoptions.inp"
@@ -152,39 +155,47 @@
  "Testoptions.inp"
  "Variables.inp"
  "BoundaryConditionsV1.inp"
- "BoundaryConditions.inp"
- "LNSoptions.inp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/media/Data/Projects/HMNF2DHeatRelease/" (22921 61417 54379 712000) "Solutions/" "Meshes/" "Steady.nam" "./" "BoundaryConditions.inp" "LNSoptions.inp" "Comsolboundaries.inp" "../" "TemperatureClip.py" "Acoustics.nam" "2DFullRD170JakeV1/" "boundaryfilegenerator.py" "GridProcessingoptions.inp" "Convertoptions.inp" "Variables.inp")
+ ("/home/jake.cranford@corp.gtlcompany.com/ConfigFiles/Ubuntu/" (22924 32021 250338 603000) ".emacs.d/" ".vim/" ".emacs" ".zshrc" ".tmux.conf" ".#ClearLinks.sh" "../" "ClearLinks.sh" ".oh-my-zsh/" ".zsh-update" ".vimrc" ".antigen/" "MakeLinks.sh" ".tmux/" "./")
 
- ("/media/Data/Projects/InjectorStudy/Admittance/" (22916 51640 337042 175000) "OptionsWriter.py" "GeneratePlotsBatch.py" "1InjTransverseOptions/" "Stabilityoptions.inp" "./" "1InjLongitudinalOptions/" "BoundaryConditions.inp" "Subdomains.inp" "StabilityVariables.inp" "Em2inTime.py" "../" "GeneratePlots.py" "2InjLongitudinalOptions/" "PlotAdmittance.py" "2InjTransverseOptions/" "BatchSubmit.sh" "SubdomainsLongitudinal.inp" "SubdomainsTransverse.inp" "Variables.inp")
+ ("/home/jake.cranford@corp.gtlcompany.com/ConfigFiles/" (22924 32140 951911 12000) "README.md" ".emacs.d/" ".vim/" ".emacs" "Windows/" ".git/" ".zshrc" ".tmux.conf" ".#ClearLinks.sh" "../" ".oh-my-zsh/" "Ubuntu/" ".zsh-update" ".vimrc" ".antigen/" "MakeLinks.sh" ".tmux/" "./")
 
- ("/media/Data/Projects/InjectorStudy/2InjLongitudinal/" (22916 53413 176583 225000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "3700HzV1.inp" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "3500HzV1.inp" "3600HzV1/" "3200HzV1.inp" "1100HzV1/" "Acoustics.nam" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3600HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "3700HzV1/" "2200HzV1/" "GenerateOptionsFiles.py" "2800HzV1.inp" "SubdomainsLongitudinal.inp" "1600HzV1.inp" "SubdomainsTransverse.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Convertoptions.inp" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/SimdatInjector/" (22905 62622 627157 886000) "ComsolSteadyField.nam" "H0.dat" "BaffleCalculation.py" "NameFile.nam" "H0_Single_inj_RD170_200.dat" "NASA_Injector_Heat_Release.png" "pythonreadvtk.py" "RD170_Single_Injector_COMSOL_Heat_Release_Inputs_Short.dat" "CylindricalProcessedGrid/" "RecessedCalculation.py" "RecessedDomainCoefficients.dat" "Voxel_Position_200.dat" "RecessedCalculationV2.py" "Solutions/" "ProcessedGrid/" "VarNames.nam" "WagonWheel.avi" "Meshes/" "H0.h5" "../" "Q7_VTKOutput/" "H0_Single_inj_RD170_baffles_200.dat" "SteadyFieldIntegration.py" "RD170_Single_Injector_COMSOL_Heat_Release_Inputs_Full.dat" "Acoustics.nam" "Convertoptions.inp" "heat_release_RD-170.py" "BaffleDomainCoefficients.dat" "GridProcessingoptions.inp" "VTKOutput/" "./" "FitIntegral.py" "SteadyField.vtk")
 
- ("/media/Data/Projects/InjectorStudy/" (22916 48693 953868 41000) "Engineering/" "2InjTransverse/" ".config/" ".zcompdump-DAS04-5.0.2" ".ssh/" "CWEStudy/" ".oh-my-zsh/" "2InjLongitudinal/" ".cache/" "ActiveContracts/" "PullandProcess.sh" "Admittance/" "./" "Tests/" "Admittance.png" ".bashrc" ".zsh-update" "Administration/" "GitRepos/" ".vim/" "1InjLongitudinal/" ".zcompdump" "../" ".bash_history" ".tmux.conf" "NetworkMount.sh" ".mozilla/" ".vimrc" "LNS/" ".bash_logout" "ArchivedContracts/" "1InjTransverse/" "BatchSubmit.sh" "Programming/" ".bash_profile" ".emacs.d/" ".histfile" ".zshrc" ".antigen/" ".tmux/")
+ ("/media/Data/Projects/InjectorStudy/" (22920 47353 770935 354000) "2InjTransverse/" ".config/" ".zcompdump-DAS04-5.0.2" ".ssh/" "CWEStudy/" ".oh-my-zsh/" "2InjLongitudinal/" ".cache/" "PullandProcess.sh" "Admittance/" "./" "Tests/" "Admittance.png" ".bashrc" ".zsh-update" ".vim/" "1InjLongitudinal/" ".zcompdump" "DFTAnalysis/" "../" ".bash_history" ".tmux.conf" ".mozilla/" ".vimrc" "LNS/" ".bash_logout" "1InjTransverse/" "Documentation/" "BatchSubmit.sh" ".bash_profile" ".emacs.d/" ".histfile" ".zshrc" ".antigen/" ".tmux/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/Convert2VTK/" (22898 7357 233497 882000) "README.md" "NameFile.nam" ".git/" "GTLCellCentered2VTK.py" "BatchSubmit.sh" "Compile.sh" "../" "ExampleOptions/" "Convert2VTK.cpp" "Convert2VTKIO.hpp" ".gitignore" "Convertoptions.inp" "Convert2VTK" "./")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/Steady/" (22913 5656 948664 500000) "rho0.dat" "T0.dat" "Uy.dat" "kappa.dat" "p0.dat" "Ux.dat" "./" "Steady.vtk" "cv.dat" "R.dat" "../" "a0.dat" "Uz.dat" "cp.dat" "mu.dat")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/" (22924 31654 561766 965000) "ConfigFiles/" ".octave_hist" "Sky_received_files/" ".gimp-2.8/" ".Xauthority" ".profile" ".bash_logout" ".emacs.d/" "VNC/" ".vim/" ".cache/" ".gnupg/" ".emacs" ".nvidia-settings-rc" "Administration/" ".davmail.log/" ".histfile" ".macromedia/" ".ssh/" "Music/" "Projects/" ".thunderbird/" ".vnc/" ".mozilla/" ".ICEauthority" ".zcompdump-jcranfo-dt-01-5.1.1" ".zshrc" "Data/" ".purple/" ".gnome2/" "Engineering/" "ArchivedContracts/" "Users/" ".pki/" ".config/" "VirtualBox VMs/" ".tmux.conf" ".gitconfig" ".davmail.properties" ".xsession-errors" "Desktop/" ".thumbnails/" "Josh_Emacs/" ".lesshst" "Videos/" ".openshot_qt/" "Templates/" "ActiveContracts/" ".sky2/" "../" ".saves/" "Documents/" ".bash_history" "Pictures/" "SALOME/" "GitRepos/" ".apport-ignore.xml" ".examples.desktop" "deb_1.01_20110210/" ".QtWebEngineProcess/" ".davmail.log.2" "Downloads/" ".nano/" ".oh-my-zsh/" ".local/" ".adobe/" "Public/" ".dbus/" "NetworkMount.sh" ".swp" "Software/" "Programming/" "readim/" ".zsh-update" ".nv/" ".vimrc" ".dmrc" ".viminfo" "CalculationsFolder/" ".gnome/" ".antigen/" ".java/" ".zcompdump" ".xsession-errors.old" ".bashrc" ".tmux/" ".davmail.log.1" ".compiz/" "./" ".dvisvgm/" ".gconf/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/Transient/" (22922 9520 121028 672000) "LNSoptions.inp" "LNSSolverIO.hpp" "Compile.sh" "../" "Variables.inp" "LNSSolver" "LNSSolver.cpp" "BoundaryConditions.inp" "./")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/" (22913 26164 34249 440000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "CWEVariables.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "3700HzV1.inp" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "3500HzV1.inp" "3600HzV1/" "3200HzV1.inp" "1100HzV1/" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3600HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "3700HzV1/" "2200HzV1/" "GenerateOptionsFiles.py" "2800HzV1.inp" "SubdomainsLongitudinal.inp" "1600HzV1.inp" "SubdomainsTransverse.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/c++/" (22916 56317 783643 715000) "README.md" "HeatTransferBC.hpp" "GTLSparseDifferentiationFunctions.hpp" "AcousticBCs.hpp" "FiniteVolumeIO.hpp" "TimeIntegration.hpp" "GTLSparseComplex.hpp" "discreteFourier.h" "XdmfIO.hpp" "todo.org" "DFTFunctions.hpp" "H5Easy.h" "DifferentiationFunctions.hpp" "BasicFunctions.hpp" "InterpolationFunctions.hpp" "decompose.h" "../" "VTKIO.hpp" "GTL_Matrix.hpp" "OpenFOAMIO.hpp" "BasicIO.hpp" "vectorFunctions.h" "Plot2DIO.hpp" "ArmaDifferentiationFunctions.hpp" "SystemSolvers.hpp" "integrals.h" "testing.cpp" "LociCHEMIO.hpp" "StabilityIntegrals.hpp" "NaturalSort.hpp" ".gitignore" "GridProcessingFunctions.hpp" "ComsolIO.hpp" "binarytest.cpp" "makeXdmf.hpp" "NASA_H5Grid.h" "VoxelFunctions.hpp" "Plot3DIO.hpp" "./" "GMFIO.hpp" "signalProcessing.h" "BoundaryProcessingFunctions.hpp" "GTLSparse.hpp")
+
+ ("/media/Data/Projects/Augmentor/Correlation/" (22911 41125 687696 424000) "Data/" "VTK2GTL.inp" "SimDAT/" "Compile.sh" "./" "ProcessedGrid/" "PlotCorr.py" "DFTAnalysis/" "../" "CorrelationCalculation" "CorrelationCalculation.cpp" "Unsteady.nam" "Cpp.nam" "ConvertCppoptions.inp" "Convertoptions.inp" "README.txt")
+
+ ("/media/Data/Projects/InjectorStudy/2InjTransverse/" (22916 49004 931491 181000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "3700HzV1.inp" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "3500HzV1.inp" "3600HzV1/" "3200HzV1.inp" "1100HzV1/" "Acoustics.nam" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3600HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "3700HzV1/" "2200HzV1/" "GenerateOptionsFiles.py" "2800HzV1.inp" "SubdomainsLongitudinal.inp" "1600HzV1.inp" "SubdomainsTransverse.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Convertoptions.inp" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
+
+ ("/media/Data/Projects/InjectorStudy/2InjLongitudinal/" (22916 57714 914401 215000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "3700HzV1.inp" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "3500HzV1.inp" "3600HzV1/" "3200HzV1.inp" "1100HzV1/" "Acoustics.nam" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3600HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "3700HzV1/" "2200HzV1/" "GenerateOptionsFiles.py" "2800HzV1.inp" "SubdomainsLongitudinal.inp" "1600HzV1.inp" "SubdomainsTransverse.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Convertoptions.inp" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD170InjectorSensitivity/" (22915 27121 822850 360000) "Solutions/" "Comsolboundaries.inp" "Steady.nam" "Meshes/" "boundaryfilegenerator.py" "../" "2DISLongV1/" "2DISShortV1/" "Convertoptions.inp" "GridProcessingoptions.inp" "./")
+
+ ("/media/Data/Projects/InjectorStudy/Admittance/" (22923 27257 497292 355000) "OptionsWriter.py" "GeneratePlotsBatch.py" "1InjTransverseOptions/" "Stabilityoptions.inp" "./" "1InjLongitudinalOptions/" "BoundaryConditions.inp" "Subdomains.inp" "StabilityVariables.inp" "Em2inTime.py" "../" "GeneratePlots.py" "2InjLongitudinalOptions/" "PlotAdmittance.py" "2InjTransverseOptions/" "BatchSubmit.sh" "SubdomainsLongitudinal.inp" "SubdomainsTransverse.inp" "Variables.inp")
+
+ ("/media/Data/Projects/HMNF2DHeatRelease/" (22923 10722 37047 256000) "Solutions/" "Meshes/" "Steady.nam" "./" "BoundaryConditions.inp" "LNSoptions.inp" "Comsolboundaries.inp" "../" "TemperatureClip.py" "Acoustics.nam" "Full2DInjectorStudyJakeV2/" "2DFullRD170JakeV1/" "boundaryfilegenerator.py" "GridProcessingoptions.inp" "Convertoptions.inp" "Variables.inp" "Full2DInjectorStudyJakeV3/")
 
  ("/media/Data/Projects/InjectorStudy/CWEStudy/" (22915 26063 396979 638000) "2InjTransverse/" "Solutions/" "2InjLongitudinal/" "OptionsFileWriter.py" "Meshes/" "1InjLongitudinalBoundaries.inp" "1InjTransverseBoundaries.inp" "./" "OptionsFiles/" "BoundaryConditions.inp" "ProcessedGrid/" "1InjLongitudinal/" "../" "Acoustics.nam" "1InjTransverse/" "2InjTransverseBoundaries.inp" "1200HzV1/" "GridProcessingoptions.inp" "Convertoptions.inp" "Variables.inp" "2InjLongitudinalBoundaries.inp" "JobSubmitWriter.py")
-
- ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD170InjectorSensitivity/" (22915 23042 312396 999000) "Solutions/" "Comsolboundaries.inp" "Steady.nam" "Meshes/" "boundaryfilegenerator.py" "../" "2DISLongV1/" "2DISShortV1/" "Convertoptions.inp" "GridProcessingoptions.inp" "./")
-
- ("/home/jake.cranford@corp.gtlcompany.com/" (22883 61939 265121 671000) ".octave_hist" "Sky_received_files/" ".gimp-2.8/" ".Xauthority" ".profile" ".bash_logout" ".emacs.d/" "VNC/" ".vim/" ".cache/" ".gnupg/" ".emacs" ".nvidia-settings-rc" "Administration/" ".davmail.log/" ".histfile" ".macromedia/" ".ssh/" "Music/" "Projects/" ".thunderbird/" ".vnc/" ".mozilla/" ".ICEauthority" ".zcompdump-jcranfo-dt-01-5.1.1" ".zshrc" "Data/" ".purple/" ".gnome2/" "Engineering/" "ArchivedContracts/" "Users/" ".pki/" ".config/" "VirtualBox VMs/" ".tmux.conf" ".gitconfig" ".davmail.properties" ".xsession-errors" "Desktop/" ".thumbnails/" "Josh_Emacs/" ".lesshst" "Videos/" ".openshot_qt/" "Templates/" "ActiveContracts/" ".sky2/" "../" ".saves/" "Documents/" ".bash_history" "Pictures/" "SALOME/" "GitRepos/" ".apport-ignore.xml" ".examples.desktop" "deb_1.01_20110210/" ".QtWebEngineProcess/" ".davmail.log.2" "Downloads/" ".nano/" ".oh-my-zsh/" ".local/" ".adobe/" "Public/" ".dbus/" "NetworkMount.sh" ".swp" "Software/" "Programming/" "readim/" ".zsh-update" ".nv/" ".vimrc" ".dmrc" ".viminfo" ".gnome/" ".antigen/" ".java/" ".zcompdump" ".xsession-errors.old" ".bashrc" ".tmux/" ".davmail.log.1" ".compiz/" "./" ".dvisvgm/" ".gconf/")
-
- ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/Transient/" (22879 57858 810184 356000) "LNSoptions.inp" "LNSSolverIO.hpp" "Compile.sh" "../" "Variables.inp" "LNSSolver" "LNSSolver.cpp" "BoundaryConditions.inp" "./")
-
- ("/media/Data/Projects/Augmentor/Correlation/" (22883 61717 689657 244000) "SimDAT_With_HR/" "VTK2GTL.inp" "Compile.sh" "./" "ProcessedGrid/" "PlotCorr.py" "../" "SimDAT_310_06/" "CorrelationCalculation" "CorrelationCalculation.cpp" "Unsteady.nam" "Cpp.nam" "ConvertCppoptions.inp" "Convertoptions.inp" "README.txt")
 
  ("/media/Data/Projects/" (22875 50252 142429 159000) "GothamConvert/" "Python/" "./" "Augmentor/" "../" "HMNF2DHeatRelease/" "TransmissionPlot.py" "InjectorStudy/")
 
  ("/media/Data/Projects/Augmentor/" (22874 39758 961492 947000) "Correlation/" "PurdueCorrelation/" "./" "../")
-
- ("/media/Data/Projects/InjectorStudy/1InjTransverse/" (22878 21895 506166 710000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "Subdomains.inp" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "VTKOutput/" "3500HzV1.inp" "3200HzV1.inp" "1100HzV1/" "Acoustics.nam" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "2200HzV1/" "2800HzV1.inp" "1600HzV1.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Convertoptions.inp" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
-
- ("/media/Data/Projects/InjectorStudy/2InjTransverse/" (22878 20650 60072 828000) "Analysis/" "JobSubmit/" "./" "BoundaryConditions.inp" "ProcessedGrid/" "1000HzV1/" "LNSoptions.inp" "PulseV1/" "../" "Acoustics.nam" "Convertoptions.inp" "Variables.inp" "Steady/")
-
- ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/c++/" (22874 26466 734290 78000) "README.md" "HeatTransferBC.hpp" "GTLSparseDifferentiationFunctions.hpp" "AcousticBCs.hpp" "TimeIntegration.hpp" "GTLSparseComplex.hpp" "discreteFourier.h" "XdmfIO.hpp" "todo.org" "DFTFunctions.hpp" "H5Easy.h" "DifferentiationFunctions.hpp" "BasicFunctions.hpp" "InterpolationFunctions.hpp" "decompose.h" "../" "VTKIO.hpp" "GTL_Matrix.hpp" "OpenFOAMIO.hpp" "BasicIO.hpp" "vectorFunctions.h" "Plot2DIO.hpp" "ArmaDifferentiationFunctions.hpp" "SystemSolvers.hpp" "integrals.h" "testing.cpp" "LociCHEMIO.hpp" "StabilityIntegrals.hpp" "NaturalSort.hpp" ".gitignore" "GridProcessingFunctions.hpp" "ComsolIO.hpp" "binarytest.cpp" "makeXdmf.hpp" "NASA_H5Grid.h" "VoxelFunctions.hpp" "Plot3DIO.hpp" "./" "GMFIO.hpp" "signalProcessing.h" "BoundaryProcessingFunctions.hpp" "GTLSparse.hpp")
 
  ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/" (22874 25705 913768 773000) "CFLCalc.py" "GenerateAcoustics.py" "GenerateHeatModel.py" ".git/" "GenerateMeanFlow.py" "../" "Harmonic/" ".gitignore" "Transient/" "./")
 
@@ -192,13 +203,9 @@
 
  ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/StabilityOverTime/" (22869 31121 309254 799000) "Subdomains.inp" ".git/" "StabilityOverTime.cpp" "GeneratePlots.py" "StabilityVariables.inp" "StabilityOverTime" "Compile.sh" "Stabilityoptions.inp" "../" "Em2inTime.py" ".gitignore" "Variables.inp" "StabilityOverTimeIO.hpp" "./")
 
- ("/media/Data/Projects/InjectorStudy/1InjTransverse/Steady/" (22869 6873 99931 92000) "rho0.dat" "T0.dat" "Uy.dat" "cv.h5" "kappa.dat" "rho0.h5" "Ux.h5" "p0.dat" "T0.h5" "Ux.dat" "mu.h5" "Uz.h5" "R.h5" "./" "Cp.h5" "Steady.vtk" "gamma.dat" "cv.dat" "R.dat" "../" "gamma.h5" "p0.h5" "a0.dat" "Uz.dat" "Cv.h5" "a0.h5" "kappa.h5" "Cp.dat" "cp.dat" "mu.dat" "Cv.dat" "Uy.h5" "cp.h5")
-
  ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/" (22860 11045 714698 507000) "README.md" ".git/" "python/" "../" ".gitignore" "c++/" ".gitmodules" "./" "tags")
 
  ("/media/jake.cranford/" (22796 60680 875356 434000) "../" "./")
-
- ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/Convert2VTK/" (22869 11132 734010 960000) "README.md" ".git/" "GTLCellCentered2VTK.py" "BatchSubmit.sh" "Compile.sh" "../" "ExampleOptions/" "Convert2VTK.cpp" "Convert2VTKIO.hpp" ".gitignore" "Convertoptions.inp" "Convert2VTK" "./")
 
  ("/media/Data/Projects/HMF2DHeatRelease/" (22867 55742 118346 925000) "./" "../" "Convertoptions.inp")
 
@@ -219,8 +226,6 @@
  ("/media/Data/Projects/InjectorStudy/1InjTransverse/1000HzV1/" (22861 9987 819040 550000) "MeanFlow.vtk" "./" "../" "Solution/")
 
  ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD-170_Chamber/2DHeatRelease/" (22857 20575 397972 896000) "LNSoptions.inp" "ProcessedGrid/" "1000HzV1.inp" "../" "Steady/" "Variables.inp" "Testoptions.inp" "BoundaryConditions.inp" "./")
-
- ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/SimdatInjector/" (22858 41967 796170 433000) "ComsolSteadyField.nam" "H0.dat" "BaffleCalculation.py" "NameFile.nam" "H0_Single_inj_RD170_200.dat" "NASA_Injector_Heat_Release.png" "pythonreadvtk.py" "RD170_Single_Injector_COMSOL_Heat_Release_Inputs_Short.dat" "CylindricalProcessedGrid/" "RecessedCalculation.py" "RecessedDomainCoefficients.dat" "Voxel_Position_200.dat" "RecessedCalculationV2.py" "Solutions/" "ProcessedGrid/" "VarNames.nam" "WagonWheel.avi" "Meshes/" "H0.h5" "../" "'" "Q7_VTKOutput/" "H0_Single_inj_RD170_baffles_200.dat" "SteadyFieldIntegration.py" "RD170_Single_Injector_COMSOL_Heat_Release_Inputs_Full.dat" "Acoustics.nam" "Convertoptions.inp" "\\" "heat_release_RD-170.py" "BaffleDomainCoefficients.dat" "GridProcessingoptions.inp" "VTKOutput/" "./" "FitIntegral.py" "SteadyField.vtk")
 
  ("/media/Data/Projects/InjectorStudy/1InjTransverse/StabilityOverTime/" (22860 6202 686767 609000) "OptionsBuilder.py" "BatchScript.sh" "Stabilityoptions.inp" "./" "OptionsFiles/" "BatchGeneratePlots.py" "Subdomains.inp" "StabilityVariables.inp" "BatchGenerateAdmittance.py" "Em2inTime.py" "../" "GeneratePlots.py" "Variables.inp")
 
@@ -353,10 +358,6 @@
  ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/DiscreteFourierAnalysis/" (22554 17995 53153 490000) "../" "DiscreteFourierAnalysis.cpp" "Compile.sh" "./" "DFToptions.inp" ".git/" "VTK/" "DiscreteFourierAnalysisIO.hpp" "DiscreteFourierAnalysis" "variables.inp" ".gitignore")
 
  ("/home/josh.batterson@corp.gtlcompany.com/Programming/" (22478 50422 246092 870000) "GTL_Libraries/" "Shell/" "Matlab/" "../" ".Python.swo" "run.sh" "OtherPrograms/" "git_GTL_Libraries.sh" "Python/" "./" "Projects/" "C++/" ".Python.swp" "Add Ons/" "RunScript.bat" "References/" "Fortran/" ".gitignore")
-
- ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/" (22561 54806 125833 241000) "HeatTransfer/" "SimDAT/" "../" "Resonance_Licensed/" "Convert2VTK/" "SPH/" "Probe/" "./" "Resonance/" "AcousticWaveSolver/" "StabilityIntegration/" "EntropyWaveSolver/" "Tasks/" "GridInterpolation/" "DiscreteFourierAnalysis/" "Data/" "GridProcessing/" "VorticityWaveSolver/")
-
- ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/GridConvert/" (22561 54704 524504 58000) "../" "./" ".git/")
 )
 
 ;; ----- ido-unc-hosts-cache -----
