@@ -9,6 +9,6 @@ do
 	echo Skipping $link
     else
 	echo Removing $HOME/$link
-	rm -r $HOME/$link
+	rm -rf $HOME/$link
     fi
 done
