@@ -1,0 +1,363 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/" . "Transient/")
+ ("/media/Data/Projects/InjectorStudy/Admittance/" . "1InjOptions/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/" . "c++/")
+ ("/media/Data/Projects/InjectorStudy/" . "Admittance/")
+ ("/media/" . "Data/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD-170_Chamber/" . "2DHeatRelease/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/" . "RD-170_Chamber/")
+ ("/media/Data/Projects/2DHeatRelease/" . "Steady/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/" . "StabilityOverTime/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/" . "GTL_Libraries/")
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/" . "Steady/")
+ ("/media/Data/Projects/Augmentor/" . "Correlation/")
+ ("/media/Data/Projects/" . "Augmentor/")
+ ("/media/Data/" . "Projects/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/" . "SMC-100-ORSC/")
+ ("/home/jake.cranford@corp.gtlcompany.com/" . "Programming/")
+ ("/" . "home/")
+ ("/home/jake.cranford@corp.gtlcompany.com/Engineering/For Jake/Augmentor_SimDAT_0.6_310_Q3/" . "SimDAT_1.5e3/")
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/CFD/OpenFOAMAugmentor/" . "SimDAT/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Fortran/" . "for.SimDAT/")
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/CFD/" . "OpenFOAMAugmentor/")
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/" . "CFD/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Engineering/" . "For Josh/")
+ ("/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/RES-101 China Lake/" . "3. Development/")
+ ("/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/" . "RES-101 China Lake/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/HeatTransfer/" . "ProcessedGrid/")
+ ("/home/josh.batterson@corp.gtlcompany.com/GitRepos/josh.batterson/" . "Python/")
+ ("/home/josh.batterson@corp.gtlcompany.com/GitRepos/" . "josh.batterson/")
+ ("/home/jbatters/Desktop/Sandbox/Playground/" . "NewDir/")
+ ("/home/jbatters/Desktop/Sandbox/" . "Playground/")
+ ("/home/jbatters/Desktop/" . "SPH/")
+ ("/home/jbatters/" . "Desktop/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SSE_1154Hz_1L1T/" . "DFTAnalysis/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/" . "Probe/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/MSFCSIMDATTransfer/" . "Transfered/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/" . "Injector2/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/HeatTransfer/" . "Unsteady/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/GTLConvert/" . "New/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/MeanFlow/" . "Time_Avg_Data/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Matlab/mat.BlankCylindricalStabilityAnalysis/" . "7. Stability Integrals/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Matlab/" . "mat.FFTExample/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/VorticityWaveSolver/" . "Axisymmetric/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/Acoustics/acoustics_coarse.m1/" . "ExtractedVariables/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/Entropy/Coarse/" . "pressure_28807_0_0.0_001/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/Entropy/" . "Coarse/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/EntropyWaveSolver/Cartesian/" . "EntropyWave_pressure_28807_0_0.0/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/Grid/" . "Coarse/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/Acoustics/" . "acoustics_coarse.m1/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/StabilityAnalysis/" . "MeanFlow/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/Plot2DGridInterpolation/" . "NewGrid/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/EntropyWaveSolver/" . "Axisymmetric/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Users/" . "BasicEmacsConfig/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/" . "MeanFlow/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SimplePlot2D/restart/" . "3000/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SimplePlot2D/" . "MeanFlow/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/Plot3DFiles/LavaLampRev2/AcousticFlow/sse_2013_stability_mode_shapes/" . "truncated/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/Plot3DFiles/LavaLampRev2/AcousticFlow/" . "sse_2013_stability_mode_shapes/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/Plot3DFiles/LavaLampRev2/" . "MeanFlow/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/Plot3DFiles/" . "LavaLampRev2/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/SMC/" . "BobbyTestEngineMirrored/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/" . "MSFC-SimDAT/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/C++/cpp.AcousticWaveSolver/" . "TimeAccurateHelmholtz/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/" . "TimeAccurateHelmholtz/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/GTL_Libraries/" . "c++/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/" . "HeatTransfer/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/" . "Tasks/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/C++/cpp.GridProcessing/" . "SimplePlot2D/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/C++/" . "cpp.SimDAT/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Stability_Analysis/Expanding Jet/Expanding Jet Uinj 100 V2/12. Data Manipulation/SaveData/" . "Cylindrical_4_modes_kz_1__ModeIndex_1_Acoustic/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Stability_Analysis/Expanding Jet/Expanding Jet Uinj 100 V2/12. Data Manipulation/" . "SaveData/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Stability_Analysis/Expanding Jet/Expanding Jet Uinj 100 V2/" . "12. Data Manipulation/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Stability_Analysis/Expanding Jet/" . "Expanding Jet Uinj 100 V2/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Stability_Analysis/" . "Expanding Jet/")
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/" . "Contracts/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Desktop/" . "CI Animations/")
+ ("/home/josh.batterson@corp.gtlcompany.com/" . "Programming/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Python/" . "AcousticPhaseExample/")
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/" . "Projects/")
+ ("/home/josh/Programming/C++/cpp.AcousticWaveSolver/" . "TimeAccurateHelmholtz/")
+ ("/home/josh/Programming/C++/cpp.MSFCGridProcessing/" . "Injector2/")
+ ("/home/" . "jake.cranford@corp.gtlcompany.com/")
+ ("/home/josh/Programming/C++/" . "cpp.AcousticWaveSolver/")
+ ("/home/josh/Programming/" . "C++/")
+ ("/home/josh/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/media/Data/Projects/HMNF2DHeatRelease/"
+ "/media/Data/Projects/InjectorStudy/Admittance/"
+ "/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD170InjectorSensitivity/"
+ "/media/Data/Projects/InjectorStudy/2InjLongitudinal/"
+ "/media/Data/Projects/InjectorStudy/2InjTransverse/"
+ "/media/Data/Projects/Augmentor/Correlation/"
+ "/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/c++/"
+ "/media/Data/Projects/InjectorStudy/1InjTransverse/"
+ "/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/Transient/"
+ "/home/jake.cranford@corp.gtlcompany.com/"
+ "/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/StabilityOverTime/"
+ "/media/Data/Projects/InjectorStudy/1InjTransverse/Steady/"
+ "/media/Data/Projects/InjectorStudy/Admittance/1InjOptions/"
+ "/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/Convert2VTK/"
+ "/media/Data/Projects/HMF2DHeatRelease/"
+ "/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD-170_Chamber/"
+ "/media/Data/Projects/InjectorStudy/1InjTransverse/StabilityOptions/"
+ "/media/Data/Projects/InjectorStudy/"
+ "/home/jake.cranford@corp.gtlcompany.com/Projects/Em2_Study/"
+ "/media/Data/Projects/InjectorStudy/1InjTransverse/StabilityOverTime/"
+ "/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/SimdatInjector/"
+ "/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD-170_Chamber/2DHeatRelease/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Tasks/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/SimDAT/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/StabilityIntegration/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Python/DiscreteFourierMath/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Fortran/for.SimDAT/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Matlab/mat.FFTExample/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/C++/cpp.SimDAT/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Python/py.2DOpenFOAMSimDAT/"
+ "/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/RES-101 China Lake/3. Development/"
+ "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector4/"
+ "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/GTL_Libraries/c++/"
+ "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/Probe/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/HeatTransfer/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/HeatTransfer/Unsteady/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/HeatTransfer/ProcessedGrid/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/MeanFlow/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/ProcessedGrid/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/Euler/"
+ "/home/josh.batterson@corp.gtlcompany.com/"
+ "/home/josh.batterson@corp.gtlcompany.com/Engineering/For Josh/"
+ "/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/GridProcessing/"
+ "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/SimDAT/"
+ "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/MSFCSIMDATTransfer/cpp.SimDAT/"
+ "/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/RES-101 China Lake/"
+ "/home/josh.batterson@corp.gtlcompany.com/Desktop/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "GridProcessingoptions.inp"
+ "boundaryfilegenerator.py"
+ "Convertoptions.inp"
+ "GeneratePlotsBatch.py"
+ "PlotAdmittance.py"
+ "Testoptions.inp"
+ "Variables.inp"
+ "BoundaryConditionsV1.inp"
+ "BoundaryConditions.inp"
+ "LNSoptions.inp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/media/Data/Projects/HMNF2DHeatRelease/" (22921 61417 54379 712000) "Solutions/" "Meshes/" "Steady.nam" "./" "BoundaryConditions.inp" "LNSoptions.inp" "Comsolboundaries.inp" "../" "TemperatureClip.py" "Acoustics.nam" "2DFullRD170JakeV1/" "boundaryfilegenerator.py" "GridProcessingoptions.inp" "Convertoptions.inp" "Variables.inp")
+
+ ("/media/Data/Projects/InjectorStudy/Admittance/" (22916 51640 337042 175000) "OptionsWriter.py" "GeneratePlotsBatch.py" "1InjTransverseOptions/" "Stabilityoptions.inp" "./" "1InjLongitudinalOptions/" "BoundaryConditions.inp" "Subdomains.inp" "StabilityVariables.inp" "Em2inTime.py" "../" "GeneratePlots.py" "2InjLongitudinalOptions/" "PlotAdmittance.py" "2InjTransverseOptions/" "BatchSubmit.sh" "SubdomainsLongitudinal.inp" "SubdomainsTransverse.inp" "Variables.inp")
+
+ ("/media/Data/Projects/InjectorStudy/2InjLongitudinal/" (22916 53413 176583 225000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "3700HzV1.inp" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "3500HzV1.inp" "3600HzV1/" "3200HzV1.inp" "1100HzV1/" "Acoustics.nam" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3600HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "3700HzV1/" "2200HzV1/" "GenerateOptionsFiles.py" "2800HzV1.inp" "SubdomainsLongitudinal.inp" "1600HzV1.inp" "SubdomainsTransverse.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Convertoptions.inp" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
+
+ ("/media/Data/Projects/InjectorStudy/" (22916 48693 953868 41000) "Engineering/" "2InjTransverse/" ".config/" ".zcompdump-DAS04-5.0.2" ".ssh/" "CWEStudy/" ".oh-my-zsh/" "2InjLongitudinal/" ".cache/" "ActiveContracts/" "PullandProcess.sh" "Admittance/" "./" "Tests/" "Admittance.png" ".bashrc" ".zsh-update" "Administration/" "GitRepos/" ".vim/" "1InjLongitudinal/" ".zcompdump" "../" ".bash_history" ".tmux.conf" "NetworkMount.sh" ".mozilla/" ".vimrc" "LNS/" ".bash_logout" "ArchivedContracts/" "1InjTransverse/" "BatchSubmit.sh" "Programming/" ".bash_profile" ".emacs.d/" ".histfile" ".zshrc" ".antigen/" ".tmux/")
+
+ ("/media/Data/Projects/InjectorStudy/CWEStudy/" (22915 26063 396979 638000) "2InjTransverse/" "Solutions/" "2InjLongitudinal/" "OptionsFileWriter.py" "Meshes/" "1InjLongitudinalBoundaries.inp" "1InjTransverseBoundaries.inp" "./" "OptionsFiles/" "BoundaryConditions.inp" "ProcessedGrid/" "1InjLongitudinal/" "../" "Acoustics.nam" "1InjTransverse/" "2InjTransverseBoundaries.inp" "1200HzV1/" "GridProcessingoptions.inp" "Convertoptions.inp" "Variables.inp" "2InjLongitudinalBoundaries.inp" "JobSubmitWriter.py")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD170InjectorSensitivity/" (22915 23042 312396 999000) "Solutions/" "Comsolboundaries.inp" "Steady.nam" "Meshes/" "boundaryfilegenerator.py" "../" "2DISLongV1/" "2DISShortV1/" "Convertoptions.inp" "GridProcessingoptions.inp" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/" (22883 61939 265121 671000) ".octave_hist" "Sky_received_files/" ".gimp-2.8/" ".Xauthority" ".profile" ".bash_logout" ".emacs.d/" "VNC/" ".vim/" ".cache/" ".gnupg/" ".emacs" ".nvidia-settings-rc" "Administration/" ".davmail.log/" ".histfile" ".macromedia/" ".ssh/" "Music/" "Projects/" ".thunderbird/" ".vnc/" ".mozilla/" ".ICEauthority" ".zcompdump-jcranfo-dt-01-5.1.1" ".zshrc" "Data/" ".purple/" ".gnome2/" "Engineering/" "ArchivedContracts/" "Users/" ".pki/" ".config/" "VirtualBox VMs/" ".tmux.conf" ".gitconfig" ".davmail.properties" ".xsession-errors" "Desktop/" ".thumbnails/" "Josh_Emacs/" ".lesshst" "Videos/" ".openshot_qt/" "Templates/" "ActiveContracts/" ".sky2/" "../" ".saves/" "Documents/" ".bash_history" "Pictures/" "SALOME/" "GitRepos/" ".apport-ignore.xml" ".examples.desktop" "deb_1.01_20110210/" ".QtWebEngineProcess/" ".davmail.log.2" "Downloads/" ".nano/" ".oh-my-zsh/" ".local/" ".adobe/" "Public/" ".dbus/" "NetworkMount.sh" ".swp" "Software/" "Programming/" "readim/" ".zsh-update" ".nv/" ".vimrc" ".dmrc" ".viminfo" ".gnome/" ".antigen/" ".java/" ".zcompdump" ".xsession-errors.old" ".bashrc" ".tmux/" ".davmail.log.1" ".compiz/" "./" ".dvisvgm/" ".gconf/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/Transient/" (22879 57858 810184 356000) "LNSoptions.inp" "LNSSolverIO.hpp" "Compile.sh" "../" "Variables.inp" "LNSSolver" "LNSSolver.cpp" "BoundaryConditions.inp" "./")
+
+ ("/media/Data/Projects/Augmentor/Correlation/" (22883 61717 689657 244000) "SimDAT_With_HR/" "VTK2GTL.inp" "Compile.sh" "./" "ProcessedGrid/" "PlotCorr.py" "../" "SimDAT_310_06/" "CorrelationCalculation" "CorrelationCalculation.cpp" "Unsteady.nam" "Cpp.nam" "ConvertCppoptions.inp" "Convertoptions.inp" "README.txt")
+
+ ("/media/Data/Projects/" (22875 50252 142429 159000) "GothamConvert/" "Python/" "./" "Augmentor/" "../" "HMNF2DHeatRelease/" "TransmissionPlot.py" "InjectorStudy/")
+
+ ("/media/Data/Projects/Augmentor/" (22874 39758 961492 947000) "Correlation/" "PurdueCorrelation/" "./" "../")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/" (22878 21895 506166 710000) "2900HzV1.inp" "3300HzV1/" "3500HzV1/" "JobSubmit/" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1700HzV1/" "3200HzV1/" "Em2_out.dat" "3100HzV1/" "1100HzV1.inp" "1300HzV1.inp" "2800HzV1/" "./" "Admittance.png" "1800HzV1.inp" "1500HzV1/" "1500HzV1.inp" "3100HzV1.inp" "BoundaryConditions.inp" "2600HzV1/" "Subdomains.inp" "1300HzV1/" "1000HzV1.inp" "2100HzV1.inp" "ProcessedGrid/" "2000HzV1/" "StabilityVariables.inp" "1000HzV1/" "1800HzV1/" "2900HzV1/" "1400HzV1.inp" "1900HzV1/" "../" "1700HzV1.inp" "VTKOutput/" "3500HzV1.inp" "3200HzV1.inp" "1100HzV1/" "Acoustics.nam" "2700HzV1/" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "3400HzV1/" "3000HzV1/" "2400HzV1/" "2000HzV1.inp" "1600HzV1/" "2600HzV1.inp" "1900HzV1.inp" "2200HzV1/" "2800HzV1.inp" "1600HzV1.inp" "2300HzV1.inp" "Admittance.dat" "2300HzV1/" "1200HzV1/" "Convertoptions.inp" "Variables.inp" "2100HzV1/" "1200HzV1.inp" "1400HzV1/" "2500HzV1/" "Steady/")
+
+ ("/media/Data/Projects/InjectorStudy/2InjTransverse/" (22878 20650 60072 828000) "Analysis/" "JobSubmit/" "./" "BoundaryConditions.inp" "ProcessedGrid/" "1000HzV1/" "LNSoptions.inp" "PulseV1/" "../" "Acoustics.nam" "Convertoptions.inp" "Variables.inp" "Steady/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/c++/" (22874 26466 734290 78000) "README.md" "HeatTransferBC.hpp" "GTLSparseDifferentiationFunctions.hpp" "AcousticBCs.hpp" "TimeIntegration.hpp" "GTLSparseComplex.hpp" "discreteFourier.h" "XdmfIO.hpp" "todo.org" "DFTFunctions.hpp" "H5Easy.h" "DifferentiationFunctions.hpp" "BasicFunctions.hpp" "InterpolationFunctions.hpp" "decompose.h" "../" "VTKIO.hpp" "GTL_Matrix.hpp" "OpenFOAMIO.hpp" "BasicIO.hpp" "vectorFunctions.h" "Plot2DIO.hpp" "ArmaDifferentiationFunctions.hpp" "SystemSolvers.hpp" "integrals.h" "testing.cpp" "LociCHEMIO.hpp" "StabilityIntegrals.hpp" "NaturalSort.hpp" ".gitignore" "GridProcessingFunctions.hpp" "ComsolIO.hpp" "binarytest.cpp" "makeXdmf.hpp" "NASA_H5Grid.h" "VoxelFunctions.hpp" "Plot3DIO.hpp" "./" "GMFIO.hpp" "signalProcessing.h" "BoundaryProcessingFunctions.hpp" "GTLSparse.hpp")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/LNS/" (22874 25705 913768 773000) "CFLCalc.py" "GenerateAcoustics.py" "GenerateHeatModel.py" ".git/" "GenerateMeanFlow.py" "../" "Harmonic/" ".gitignore" "Transient/" "./")
+
+ ("/media/Data/Projects/InjectorStudy/Admittance/1InjOptions/" (22869 31021 19308 448000) "2900HzV1.inp" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1100HzV1.inp" "1300HzV1.inp" "./" "1800HzV1.inp" "1500HzV1.inp" "3100HzV1.inp" "1000HzV1.inp" "2100HzV1.inp" "1400HzV1.inp" "../" "1700HzV1.inp" "3500HzV1.inp" "3200HzV1.inp" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "2000HzV1.inp" "2600HzV1.inp" "1900HzV1.inp" "BatchSubmit.sh" "2800HzV1.inp" "1600HzV1.inp" "2300HzV1.inp" "1200HzV1.inp")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/StabilityOverTime/" (22869 31121 309254 799000) "Subdomains.inp" ".git/" "StabilityOverTime.cpp" "GeneratePlots.py" "StabilityVariables.inp" "StabilityOverTime" "Compile.sh" "Stabilityoptions.inp" "../" "Em2inTime.py" ".gitignore" "Variables.inp" "StabilityOverTimeIO.hpp" "./")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/Steady/" (22869 6873 99931 92000) "rho0.dat" "T0.dat" "Uy.dat" "cv.h5" "kappa.dat" "rho0.h5" "Ux.h5" "p0.dat" "T0.h5" "Ux.dat" "mu.h5" "Uz.h5" "R.h5" "./" "Cp.h5" "Steady.vtk" "gamma.dat" "cv.dat" "R.dat" "../" "gamma.h5" "p0.h5" "a0.dat" "Uz.dat" "Cv.h5" "a0.h5" "kappa.h5" "Cp.dat" "cp.dat" "mu.dat" "Cv.dat" "Uy.h5" "cp.h5")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/" (22860 11045 714698 507000) "README.md" ".git/" "python/" "../" ".gitignore" "c++/" ".gitmodules" "./" "tags")
+
+ ("/media/jake.cranford/" (22796 60680 875356 434000) "../" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/Convert2VTK/" (22869 11132 734010 960000) "README.md" ".git/" "GTLCellCentered2VTK.py" "BatchSubmit.sh" "Compile.sh" "../" "ExampleOptions/" "Convert2VTK.cpp" "Convert2VTKIO.hpp" ".gitignore" "Convertoptions.inp" "Convert2VTK" "./")
+
+ ("/media/Data/Projects/HMF2DHeatRelease/" (22867 55742 118346 925000) "./" "../" "Convertoptions.inp")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD-170_Chamber/" (22866 54365 238907 932000) "README.md" "Solutions/" "ParaviewQ7PlotScript.py" "2DHeatRelease/" "Comsolboundaries.inp" "Steady.nam" "RD-170_Chamber/" "Meshes/" "VTK/" "boundaryfilegenerator.py" "../" "Convertoptions.inp" "ConvertSteady.inp" "GridProcessingoptions.inp" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/" (22866 55337 114797 950000) "RD-170_Chamber/" "SimdatInjector/" "Q7Report/" "../" "SingleInjectorStudy/" "Q8Report/" "InjectorStudy/" "./")
+
+ ("/media/Data/Projects/2DHeatRelease/Steady/" (22860 6038 646238 462000) "rho0.dat" "T0.dat" "Uy.dat" "cv.h5" "kappa.dat" "rho0.h5" "Ux.h5" "p0.dat" "T0.h5" "Ux.dat" "mu.h5" "Uz.h5" "R.h5" "./" "Steady.vtk" "gamma.dat" "cv.dat" "R.dat" "../" "gamma.h5" "p0.h5" "a0.dat" "Uz.dat" "a0.h5" "kappa.h5" "cp.dat" "mu.dat" "Uy.h5" "cp.h5")
+
+ ("/media/Data/Projects/2DHeatRelease/" (22866 58880 917634 911000) "1700HzManifoldPulseV1/" "1700HzManifoldPulseV1.inp" "./" "BoundaryConditions.inp" "1700HzChamberPulseV1.inp" "Testoptions.inp" "ProcessedGrid/" "1700HzChamberPulseV1/" "../" "1700HzV1.inp" "VTKOutput/" "Acoustics.nam" "Convertoptions.inp" "Variables.inp" "Steady/")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/StabilityOptions/" (22861 37334 934166 307000) "2900HzV1.inp" "3000HzV1.inp" "2400HzV1.inp" "2200HzV1.inp" "1100HzV1.inp" "1300HzV1.inp" "./" "1800HzV1.inp" "1500HzV1.inp" "3100HzV1.inp" "1000HzV1.inp" "2100HzV1.inp" "1400HzV1.inp" "../" "1700HzV1.inp" "3500HzV1.inp" "3200HzV1.inp" "3300HzV1.inp" "3400HzV1.inp" "2700HzV1.inp" "2500HzV1.inp" "2000HzV1.inp" "2600HzV1.inp" "1900HzV1.inp" "BatchSubmit.sh" "2800HzV1.inp" "1600HzV1.inp" "2300HzV1.inp" "1200HzV1.inp")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/Projects/" (22856 8128 493661 978000) "LNS/" "StabilityIntegration/" "ParaviewScripts/" "UnsteadyFieldSolver/" "Probe/" "StabilityOverTime/" "DiscreteFourierAnalysis/" "../" "VorticityWaveSolver/" "AcousticWaveSolver/" "PlottingScripts/" "PythonVTKReader/" "GridProcessing/" "Convert2VTK/" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Programming/" (22718 60124 542789 537000) "myC++/" "myPython/" "GTL_Libraries/" "Projects/" "../" "Shell/" "./")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/1000HzV1/" (22861 9987 819040 550000) "MeanFlow.vtk" "./" "../" "Solution/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/RD-170_Chamber/2DHeatRelease/" (22857 20575 397972 896000) "LNSoptions.inp" "ProcessedGrid/" "1000HzV1.inp" "../" "Steady/" "Variables.inp" "Testoptions.inp" "BoundaryConditions.inp" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/SimdatInjector/" (22858 41967 796170 433000) "ComsolSteadyField.nam" "H0.dat" "BaffleCalculation.py" "NameFile.nam" "H0_Single_inj_RD170_200.dat" "NASA_Injector_Heat_Release.png" "pythonreadvtk.py" "RD170_Single_Injector_COMSOL_Heat_Release_Inputs_Short.dat" "CylindricalProcessedGrid/" "RecessedCalculation.py" "RecessedDomainCoefficients.dat" "Voxel_Position_200.dat" "RecessedCalculationV2.py" "Solutions/" "ProcessedGrid/" "VarNames.nam" "WagonWheel.avi" "Meshes/" "H0.h5" "../" "'" "Q7_VTKOutput/" "H0_Single_inj_RD170_baffles_200.dat" "SteadyFieldIntegration.py" "RD170_Single_Injector_COMSOL_Heat_Release_Inputs_Full.dat" "Acoustics.nam" "Convertoptions.inp" "\\" "heat_release_RD-170.py" "BaffleDomainCoefficients.dat" "GridProcessingoptions.inp" "VTKOutput/" "./" "FitIntegral.py" "SteadyField.vtk")
+
+ ("/media/Data/Projects/InjectorStudy/1InjTransverse/StabilityOverTime/" (22860 6202 686767 609000) "OptionsBuilder.py" "BatchScript.sh" "Stabilityoptions.inp" "./" "OptionsFiles/" "BatchGeneratePlots.py" "Subdomains.inp" "StabilityVariables.inp" "BatchGenerateAdmittance.py" "Em2inTime.py" "../" "GeneratePlots.py" "Variables.inp")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/Em2_Study/" (22819 17587 754537 576000) "SteadyName.nam" "NameFile.nam" "TestComsolRead/" "1InjMeanFlow4StevenV2/" "Em2Output_1inj_80kHz/" "ConvertoptionsUnsteady.inp" "Solutions/" "ProcessedGrid/" "Comsolboundaries.inp" "name.nam" "Em2Calc.py" "Meshes/" "ConvertoptionsSteady.inp" "../" "TransmissionLoss4Comparison.py" "1InjSteadyCFDV2/" "ProcessedGrid4Steven/" "DFT/" "1InjectorSteadyCFD/" "Em2Output_1inj_70kHz/" "UnsteadyName.nam" "fcns_Em2.pyc" "Em2Plot.py" "Convertoptions.inp" "fcns_Em2.py" "TburnerProcessedGrid/" "AdmittanceCalcs.py" "LNSResults/" "GridProcessingoptions.inp" "COMSOLResults/" "Probe_80kHz/" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Projects/" (22830 61790 496677 685000) "LinearEulerTest/" "Python/" "SMC-100-ORSC/" "C++/" "LNSPulse/" "../" "ConvertSteady/" "Augmentor/" "Convert4Josh/" "SingleInjectorStudy/" "Em2_Study/" "MDA_Tburner/" "./")
+
+ ("/media/" (22654 29820 101072 351000) "Data/" "../" "jake.cranford/" "cvg/" "gtladmin/" "./")
+
+ ("/media/Data/" (22860 9585 504543 344000) "JakePython/" "./" "lost+found/" "../" "Projects/" "Convert/" ".Trash-1468001104/" ".Trash-1468001608/" "VMs/")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Engineering/For Jake/Augmentor_SimDAT_0.6_310_Q3/SimDAT_1.5e3/" (22860 3762 218688 200000) "Stability.txt" "StabilityIntegrands.vtk" "UnsteadyField.vtk" "SteadyField.vtk" "../" "./")
+
+ ("/home/jake.cranford@corp.gtlcompany.com/Engineering/For Jake/Augmentor_SimDAT_0.6_310_Q3/" (22860 7911 504391 0) "Convertoptions.inp" "ProcessedGrid/" "SimDAT_6e3/" "SimDAT_5e3/" "SimDAT_4e3/" "SimDAT_3e3/" "SimDAT_2.5e3/" "SimDAT_2e3/" "SimDAT_1.5e3/" "SimDAT_1e3/" "../" "./")
+
+ ("/home/" (22654 29149 311205 159000) "jake.cranford@corp.gtlcompany.com/" "../" "cvg@corp.gtlcompany.com/" "gtladmin/" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Tasks/" (22571 24600 311043 675000) "../" "ExDescription.md" "./" ".git/" "TODO.md" "README.md")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/SimDAT/" (22571 45530 481747 35000) "h5probeoptions.inp" "Injector2TimeInterval.dat" "SimDAT.cpp" "OpenFOAMvariables.inp" "GenerateTestCase.py" "SimDAT" "FFT.png" "../" "SimDAToptions.inp" "Compile.sh" "SimDATFunctions.hpp" "h5probe.py" "ComputeFFT.py" "SimDATIO.hpp" "./" "OpenFOAMoptions.inp" ".git/" "OpenFOAMSimDAT.py" "LociChemProbe.py" "MSFCoptions.inp" "MSFCvariables.inp" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/" (22573 45469 857 178000) ".bogofilter/" ".zshrc" ".xsession-errors.old" ".gnome/" "makesymbolic.sh" ".dmrc" "Sky_received_files/" ".zcompdump" ".histfile" ".gitconfig" ".dbus/" "GTLDocuments" ".hplip/" ".cache/" ".local/" "ArchivedContracts/" ".gnupg/" ".gimp-2.8/" "GitRepos/" ".tmux/" ".nano/" "#!home!josh.batterson@corp.gtlcompany.com!SecondaryDrive!Contracts!MSFC-SimDAT!Injector4!SimDAToptions.inp#" ".ICEauthority" "Software/" "Administration/" ".xsession-errors" ".emacs.d/" ".oh-my-zsh/" "Downloads/" ".emacs.bak" "ConfigurationManagement/" "Engineering/" ".Xauthority" "examples.desktop" ".config/" ".emacs" ".viminfo" "Videos/" "TertiaryDrive/" ".saves/" ".sky2/" "Public/" "./" ".ssh/" ".bashrc" "../" ".vimrc" ".vnc/" "VirtualBox VMs/" ".lesshst" ".compiz/" ".gconf/" ".pki/" ".thunderbird/" ".mozilla/" ".profile" ".adobe/" "Pictures/" "Desktop/" ".emacs.d.bak/" ".antigen/" ".thumbnails/" ".zsh-update" ".macromedia/" "Music/" ".tmux.conf" ".bash_logout" "Users/" "makemountdirectories.sh" ".texmf-var/" ".bash_history" ".zcompdump-jbatters-dt-01-5.1.1" "SecondaryDrive/" "ActiveContracts/" "Documents/" "Templates/" "NetworkMount.sh" ".vim/" "Programming/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Python/DiscreteFourierMath/" (22571 45777 55505 468000) "CrossCorrelation.py" "FFT.png" "../" "EulerCoefficients.py" "./" "DFTMath.py" ".git/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/CFD/OpenFOAMAugmentor/SimDAT/" (22548 44081 332407 86000) "StabilityIntegrands.vtk" "../" "SteadyField.xmf" "TimeSteps.dat" "solution.h5" "TimeSteps.bak" "UnsteadyField.vtk" "SteadyField.vtk" "./" "Stability.txt")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/CFD/OpenFOAMAugmentor/" (22551 21538 756767 23000) "../" "TimeSteps.dat" "Solution/" "SimDAToptions.inp" "temp/" "GridProcessingoptions.inp" "ProcessedGrid/" ".GridProcessingoptions.inp.swp" "./" "SimDAT/" "OpenFOAMvariables.inp")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Fortran/for.SimDAT/" (22400 9834 508908 336000) "GnuData.dat" "Documentation.toc" "fourieranalysis.mod" "simdatfunctions.mod" "SimDAT.f95" "SimDAT" "Documentation.aux" "SimDATFunctions.f95" "LinuxCompile.sh" "DiscreteCosineT.png" "../" ".SimDAT.f95.swp" "GenerateData.py" "Documentation.log" "basicfunctions.mod" "WinCompile.bat" "./" "SimDAT.exe" "AmplitudeVsFrequencyHz.png" ".git/" "Documentation.pdf" "DiscreteSineAndCosine.png" "DiscreteSine.png" "Style.gp" "todo.md" "gnuplotfunctions.mod" "Documentation.tex" "TempFig.png" "SimDATOutput.dat" "DiscreteSineT.png" "Data/" "DiscreteCosine.png" ".SimDATFunctions.f95.swp" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Fortran/" (22267 62312 459368 898000) "for.SimDAT/" "for.Chapman Fortran 95-2003 for Scientists and Engineers/" "../" "for.CommandLineArguments/" "for.SignalProcessing/" "for.BasicFunctions/" "Dynamic Array Size Vs Fixed.xlsx" "./" "for.Graphics/" "for.Other/" "for.Bobby_Files/" "for.LearningAndTesting/" "for.TestPrograms/" "for.OldSPH/" "for.NewSPH/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Matlab/mat.FFTExample/" (22283 40262 201563 367000) "../" "html/" "FFTExample.pdf" "./" "!Pressure at Particle 6685.mat" "FFTExample.m" "SPHVisualizationProbeFFT.m" "!X Velocity at Particle 6685.mat")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Matlab/" (22270 59762 9764 844000) "Matlab Batch Execution/" "mat.BlankCartesianStabilityAnalysisINPROGRESS/" "mat.BoyGirlParadox/" "mat.SimplePoissonSolver/" "mat.TecPlotMatlabIOV2/" "mat.FiniteDifferenceDifferentiationMatrix/" "../" "mat.GridGeneratorOLD/" "mat.FDMVorticalFieldSolver/" "mat.ThermalBoundaryLayer/" "mat.SpectralAcousticSolver/" "mat.4thandGO/" "mat.FDMHeatEquation/" "mat.TecPlotMatlabIO/" "mat.RealTimePhysics/" "mat.SonicLineCalculation/" "mat.1DAdvection/" "mat.FVMDiscussion/" "./" "mat.FiniteDifferenceDerivatives/" "mat.BlankCylindricalStabilityAnalysis/" "mat.SystemSolvers/" "mat.FDMAcousticSolvers/" "mat.FFTExample/" "mat.SPHTestCodes/" "mat.TemperatureProfileintheBV/" "mat.DNSAttempts/" "mat.FDM_2D_4Eq_Time_Accurate_Unsteady_V1/" "mat.Blank3DStabilityAnalysis/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Python/" (22571 11657 557111 123000) "py.1DAdvection/" "py.2DConvectedWaveEquation/" "py.MontyHall/" "py.Graphics/" "py.2DUnstructuredUnsteadyHeat/" "py.TkinterGUI/" "py.2DOpenFOAMDifferentiation/" "py.SystemSolvers/" "Session.vim" "ConvergingODE/" "GMFDataRead/" "py.2DOpenFOAMSimDAT/" "py.1DSteadyHeatEquation/" "../" ".py.2DCartesianVorticityWave.swp" "py.LidDrivenCavityFlowV1/" "py.GeneticAlgorithms/" "py.2DAdvection/" "py.AdaptiveVoxels/" "Plot3DProbe/" "DiscreteFourierMath/" "py.2DConvectionDiffusion/" "PadZero/" "py.2DHelmholtz/" "./" "py.TecplotBinary/" "py.Plot3DToMat/" "py.2DUnstructuredSteadyHeat/" "py.SignalProcessing/" "py.StabilityDemo/" "py.Centroids/" "py.2DAdvectionV2/" "py.LinesIn3D/" ".py.2DConvectionDiffusion.swp" ".py.2DConvectedWaveEquation.swp" "py.1DUnsteadyHeatEquation/" "py.BasecampScraper/" "py.2DCellCenteredDifferentiation/" "py.2DCartesianVorticityWave/" "py.2DCellCenteredDifferentiationV2/" "py.2DCartesianEntropyWave/" "AcousticPhaseExample/" ".py.2DCartesianEntropyWave.swp" "py.Lessons/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/GitRepos/josh.batterson/Python/" (22562 2986 273975 800000) "PadZero/" "GMFDataRead/" "ConvergingODE/" "AcousticPhaseExample/" "Plot3DProbe/" "py.BasecampScraper/" "py.AdaptiveVoxels/" "py.2DCartesianEntropyWave/" "py.2DCartesianVorticityWave/" "py.2DConvectedWaveEquation/" "py.2DOpenFOAMDifferentiation/" "py.2DConvectionDiffusion/" "py.2DHelmholtz/" "py.2DOpenFOAMSimDAT/" "py.2DUnstructuredSteadyHeat/" "py.2DUnstructuredUnsteadyHeat/" "py.2DCellCenteredDifferentiationV2/" "py.2DCellCenteredDifferentiation/" "py.Centroids/" "py.Plot3DToMat/" "py.1DSteadyHeatEquation/" "py.1DUnsteadyHeatEquation/" "py.TecplotBinary/" "py.StabilityDemo/" "py.SignalProcessing/" "py.Graphics/" "py.1DAdvection/" "py.2DAdvection/" "py.Lessons/" "py.2DAdvectionV2/" "py.GeneticAlgorithms/" "py.TkinterGUI/" "py.SystemSolvers/" "py.MontyHall/" "py.SimDAT/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/C++/cpp.SimDAT/" (22459 8581 132818 326000) "TimeInterval.dat" "h5probeoptions.inp" "Injector2TimeInterval.dat" "UnsteadyField.vtk" "SimDAT.cpp" "OpenFOAMvariables.inp" "Timesteps.dat" "GenerateTestCase.py" "SimDAT" "OpenFOAMoptions.bak" "FFT.png" "../" "ProcessedGrid.h5" "Flameholder_4480Hz/" "DirectImportNotes.org" "SteadyField.vtk" "OpenFOAMSimDAT.cpp" "ProbeSignal.dat" "Compile.sh" "SimDATFunctions.hpp" "h5probe.py" "options.inp" "ComputeFFT.py" "SimDATIO.hpp" "./" "OpenFOAMoptions.inp" ".git/" "SimDAT.bak" "StabilitySave.txt" "StabilityIntegrands.vtk" "GenerateTime.py" "OpenFOAMSimDAT.py" "MSFCFFT/" "MSFCTimeInterval.dat" "ProcessedSolution.h5" "todo.org" "ProcessedGrid/" "MSFCoptions.inp" "MSFCvariables.inp" "OpenFOAMTimeInterval.dat" "Stability.txt" "Solution.bak" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/C++/" (22469 40064 565957 723000) "cpp.Lynda C++ Essentials/" "cpp.OpenFOAM2CellCentered3D/" "cpp.OpenFOAMToCellCentered/" "cpp.Libraries/" "cpp.AcousticWaveSolver/" "ConvergingODE/" "../" "cpp.MSFCGridProcessing/" "cpp.GridProcessing/" "./" "cpp.Introduction/" "cpp.Pitt-Francis Guide to Scientific Computing in C++/" "cpp.SimDAT/" "cpp.SolutionToVTK/" "cpp.EntropyWaveSolver/" "cpp.Plot3DToCellCentered/" "cpp.H5Easy/" "cpp.VoxelExample/" "cpp.Plot2DToPlot3D/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SSE_1154Hz_1L1T/" (22569 52776 291413 95000) "restart_005.a.dat" "BoundaryIndex.dat" "MDA_Mirrored_with_Manifold.vtk" "boundaries.vtk" "InnerConnections.dat" "Sz.dat" "GridProcessingoptions.inp" "restart_006.a.dat" "x.dat" "grid.grd" "mirrorboundaries.inp" "axial.nam" "t2.p3d" "freqs.out" "ny.dat" "y.dat" "acoustics2d.dat" "restart_004.b.dat" "yCells.dat" "xCells.dat" "BoundaryConditions.inp" "restart_003.b.dat" "Owner.dat" "restart_007.a.dat" "Volume.dat" "t1.nam" "nz.dat" "yBoundaryFaces.dat" "steady_field.dat" "BoundaryNames.dat" "restart_004.a.dat" "TimeAccurateHelmholtzoptions.inp" "Sx.dat" "t2.nam" "restart_003.a.dat" "Sy.dat" "yFaces.dat" "DFToptions.inp" "NodeConnections.dat" "ElementType.dat" "MPI_MAP.DAT" "BoundaryElementType.dat" "BoundaryFaces.dat" "restart.ini" "restart_006.b.dat" "unconnected.vtk" "boundary.dat" "xBoundaryFaces.dat" "zFaces.dat" "plot.inp" "InnerConnections.bak" "zBoundaryFaces.dat" "z.dat" "t1.p3d" "restart_007.b.dat" "solution_tecplot.dat" "restart_equations.ini" "t3.p3d" "ProcessedGrid/" "zCells.dat" "Frequencies.ods" "variables.inp" "restart_001.b.dat" "Faces.dat" "restart_005.b.dat" "nx.dat" "control.inp" "restart_002.a.dat" "axial.p3d" "boundaries.inp" "restart_002.b.dat" "t3.nam" "grid.xyz" "dirichlet.dat" "supersonic.dat" "restart_001.a.dat" "xFaces.dat" "DFTAnalysis/" "SSE_1154Hz_1L1T.avi" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Desktop/" (22566 3548 763015 962000) "Resonance/" "Gmail - Travelocity travel confirmation - Nov 29 - Itin#7222535118111.pdf" "PersonalStatementDraft.odt" "19960029062.pdf" ".~lock.7122.2.3_Provisional Patent Application.docx#" "thesisPJ.pdf" "Essay_questions.docx" "20080001448.pdf" "Gmail - Reservation Confirmation for Tuesday, Nov 29, 2016.pdf" "tiemu-3.03-nogdb.tar.gz" "HeatTransfer/" "Cover Letter for GTL Company ARW.pdf" "Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf" "chapter_rhie.pdf" "PersonalStatementDraft_Batterson.odt" "InvestigationLink.org" "PersonalStatementDraft_edit.odt" "SF86-10-V1.pdf" "GridProcessingStats.ods" "Resume for GTL Company ARW.pdf" "GTL STANDARD PRACTICES AND PROCEDURES.docx" "Blank Memo.docx" "SF86-10.pdf" "Research_proposal.docx" "Convection/" "./" "10.1.1.596.1592.pdf" "../" "Salome_to_OpenFOAM.pdf" "passthrough.zip" "UnsteadyWaveFiguresQ5Report/" "Westervelt Equation Material/" "How External Users Access GTL’s SharePoint.pdf" "disertationERD.pdf" ".~lock.GridProcessingStats.ods#" "ResearchProposalDraft.odt" "janardan_bangalore_a_197308_phd_259654.pdf" "2013-43-Patil.pdf")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/HeatTransfer/" (22569 52718 32906 713000) "GridProcessingoptions.inp" "MaterialProperties/" "Custom.inp" "../" "HelmholtzBoundaryConditions.inp" "HeatTransferoptions.inp" "TimeAccurateHelmholtzoptions.inp" "Boxboundaries.inp" "Helmholtz/" "./" "Plateboundaries.inp" "ProcessedGrid/" "HeatTransferBoundaryConditions.inp" "Holeboundaries.inp" "Grid/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/Probe/" (22566 21529 704880 705000) "TimeInterval.dat" "Injector2TimeInterval.dat" "../" "./" "probelocations.dat" "proberesults.dat")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/GTL_Libraries/c++/" (22570 16810 939041 813000) "DifferentiationFunctions.hpp" "VTKIO.hpp" "LociCHEMIO.hpp" "vectorFunctions.h" "../" "GMFIO.hpp" "test.dat" "integrals.h" "BasicFunctions.hpp" "DFTFunctions.hpp" "NaturalSort.hpp" "discreteFourier.h" "binarytest.cpp" "InterpolationFunctions.hpp" "testing.cpp" "./" "signalProcessing.h" "test.bin" "decompose.h" "Plot2DIO.hpp" "README.md" "Plot3DIO.hpp" "XdmfIO.hpp" "StabilityIntegrals.hpp" "NASA_H5Grid.h" "VoxelFunctions.hpp" "todo.org" "BoundaryProcessingFunctions.hpp" "H5Easy.h" "OpenFOAMIO.hpp" "BasicIO.hpp" "GridProcessingFunctions.hpp" "makeXdmf.hpp" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/" (22570 11627 74957 611000) "866Hz/" "1632Hz/" "GridProcessingoptions.inp" "Injector2TimeInterval.dat" "SimDAT/" "FFT.png" "../" "SimDAToptions.inp" "Probe/" "JobSubmit.sh" "Solution/" "SimDAT_local/" "ComputeFFT.py" "832Hz/" "./" "LociChemDataRead.py" "LociChemProbe.py" "Convertoption.inp" "copy.sh" "ProcessedGrid/" "TimeSteps.dat" "SimDATvariables.inp" "300Hz/" "Grid/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector4/" (22570 11565 380514 945000) "GridProcessingoptions.inp" "SimDAT/" "../" "SimDAToptions.inp" "Probe/" "Solution/" "./" "LociChemDataRead.py" "ProcessedGrid/" "TimeSteps.bak" "TimeSteps.dat" "SimDATvariables.inp" "Grid/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/CFD/MSFCInjector4/" (22569 52825 870132 845000) "kconduct_sca.21200_DVRC_8AR" "qh_sca.21210_DVRC_8AR" "qh_sca.21190_DVRC_8AR" "tf_sca.21165_DVRC_8AR" "qh_sca.21195_DVRC_8AR" "v_vec.21210_DVRC_8AR" "tf_sca.21195_DVRC_8AR" "laminarViscosity_sca.21180_DVRC_8AR" "cp_sca.21185_DVRC_8AR" "tf_sca.21190_DVRC_8AR" "r_sca.21200_DVRC_8AR" "r_sca.21190_DVRC_8AR" "a_sca.21185_DVRC_8AR" "laminarViscosity_sca.21165_DVRC_8AR" "a_sca.21205_DVRC_8AR" "h_sca.21210_DVRC_8AR" "r_sca.21205_DVRC_8AR" "v_vec.21170_DVRC_8AR" "qh_sca.21165_DVRC_8AR" "../" "qh_sca.21170_DVRC_8AR" "v_vec.21195_DVRC_8AR" "pg_sca.21210_DVRC_8AR" "pg_sca.21165_DVRC_8AR" "qh_sca.21175_DVRC_8AR" "pg_sca.21190_DVRC_8AR" "v_vec.21190_DVRC_8AR" "h_sca.21190_DVRC_8AR" "h_sca.21170_DVRC_8AR" "cp_sca.21175_DVRC_8AR" "h_sca.21195_DVRC_8AR" "cp_sca.21200_DVRC_8AR" "kconduct_sca.21175_DVRC_8AR" "tf_sca.21170_DVRC_8AR" "kconduct_sca.21190_DVRC_8AR" "r_sca.21185_DVRC_8AR" "h_sca.21175_DVRC_8AR" "pg_sca.21205_DVRC_8AR" "pg_sca.21185_DVRC_8AR" "pg_sca.21200_DVRC_8AR" "tf_sca.21205_DVRC_8AR" "tf_sca.21185_DVRC_8AR" "a_sca.21200_DVRC_8AR" "a_sca.21175_DVRC_8AR" "cp_sca.21165_DVRC_8AR" "v_vec.21165_DVRC_8AR" "h_sca.21165_DVRC_8AR" "r_sca.21175_DVRC_8AR" "h_sca.21205_DVRC_8AR" "h_sca.21185_DVRC_8AR" "kconduct_sca.21210_DVRC_8AR" "qh_sca.21180_DVRC_8AR" "v_vec.21185_DVRC_8AR" "h_sca.21200_DVRC_8AR" "kconduct_sca.21165_DVRC_8AR" "cp_sca.21170_DVRC_8AR" "v_vec.21175_DVRC_8AR" "r_sca.21195_DVRC_8AR" "laminarViscosity_sca.21170_DVRC_8AR" "laminarViscosity_sca.21205_DVRC_8AR" "r_sca.21180_DVRC_8AR" "cp_sca.21190_DVRC_8AR" "laminarViscosity_sca.21175_DVRC_8AR" "kconduct_sca.21205_DVRC_8AR" "tf_sca.21180_DVRC_8AR" "cp_sca.21180_DVRC_8AR" "r_sca.21165_DVRC_8AR" "laminarViscosity_sca.21210_DVRC_8AR" "a_sca.21170_DVRC_8AR" "pg_sca.21170_DVRC_8AR" "qh_sca.21200_DVRC_8AR" "a_sca.21180_DVRC_8AR" "laminarViscosity_sca.21195_DVRC_8AR" "h_sca.21180_DVRC_8AR" "cp_sca.21195_DVRC_8AR" "qh_sca.21205_DVRC_8AR" "./" "laminarViscosity_sca.21185_DVRC_8AR" "tf_sca.21210_DVRC_8AR" "cp_sca.21205_DVRC_8AR" "a_sca.21210_DVRC_8AR" "pg_sca.21195_DVRC_8AR" "tf_sca.21200_DVRC_8AR" "v_vec.21200_DVRC_8AR" "kconduct_sca.21170_DVRC_8AR" "tf_sca.21175_DVRC_8AR" "cp_sca.21210_DVRC_8AR" "a_sca.21190_DVRC_8AR" "laminarViscosity_sca.21200_DVRC_8AR" "v_vec.21180_DVRC_8AR" "kconduct_sca.21185_DVRC_8AR" "r_sca.21170_DVRC_8AR" "v_vec.21205_DVRC_8AR" "a_sca.21165_DVRC_8AR" "kconduct_sca.21180_DVRC_8AR" "kconduct_sca.21195_DVRC_8AR" "r_sca.21210_DVRC_8AR" "pg_sca.21180_DVRC_8AR" "a_sca.21195_DVRC_8AR" "laminarViscosity_sca.21190_DVRC_8AR" "qh_sca.21185_DVRC_8AR" "pg_sca.21175_DVRC_8AR")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/CFD/" (22570 8103 355842 443000) "../" "OpenFOAMAugmentor/" "MSFCInjector4/" "./" "MSFCInjector2/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/TertiaryDrive/" (22570 8103 355842 443000) "../" "866_8Hz.tar" "300Hz.tar" "832Hz.tar" "From_Cluster/" "1632Hz.tar" ".Trash-1468001613/" "./" "CFD/" ".Trash-1001/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/" (22569 63884 742055 260000) "MSFCSIMDATTransfer/" "MSFCSnapShot/" "SteadyState.pvsm" "../" "./" "UnsteadyState.pvsm" "Injector2/" "unsteady.pwin" "Injector4/" "StabilityIntegrals.pvsm")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/Solution/" (22533 89 557471 859000) "qh_sca.37915_DVRC_8AR" "v_vec.37945_DVRC_8AR" "v_vec.37935_DVRC_8AR" "kconduct_sca.37920_DVRC_8AR" "pg_sca.37945_DVRC_8AR" "laminarViscosity_sca.37915_DVRC_8AR" "kconduct_sca.37905_DVRC_8AR" "r_sca.37920_DVRC_8AR" "pg_sca.37930_DVRC_8AR" "v_vec.37920_DVRC_8AR" "tf_sca.37945_DVRC_8AR" "qh_sca.37910_DVRC_8AR" "h_sca.37950_DVRC_8AR" "h_sca.37920_DVRC_8AR" "qh_sca.37950_DVRC_8AR" "a_sca.37940_DVRC_8AR" "cp_sca.37930_DVRC_8AR" "pg_sca.37940_DVRC_8AR" "h_sca.37935_DVRC_8AR" "h_sca.37905_DVRC_8AR" "pg_sca.37920_DVRC_8AR" "r_sca.37925_DVRC_8AR" "laminarViscosity_sca.37905_DVRC_8AR" "a_sca.37905_DVRC_8AR" "../" "pg_sca.37925_DVRC_8AR" "kconduct_sca.37925_DVRC_8AR" "r_sca.37945_DVRC_8AR" "cp_sca.37925_DVRC_8AR" "pg_sca.37910_DVRC_8AR" "cp_sca.37910_DVRC_8AR" "v_vec.37950_DVRC_8AR" "laminarViscosity_sca.37945_DVRC_8AR" "v_vec.37910_DVRC_8AR" "pg_sca.37935_DVRC_8AR" "qh_sca.37925_DVRC_8AR" "tf_sca.37905_DVRC_8AR" "tf_sca.37950_DVRC_8AR" "r_sca.37910_DVRC_8AR" "a_sca.37910_DVRC_8AR" "./" "kconduct_sca.37910_DVRC_8AR" "kconduct_sca.37940_DVRC_8AR" "tf_sca.37920_DVRC_8AR" "laminarViscosity_sca.37930_DVRC_8AR" "tf_sca.37910_DVRC_8AR" "h_sca.37925_DVRC_8AR" "kconduct_sca.37950_DVRC_8AR" "grid_pos.37905_DVRC_8AR" "kconduct_sca.37945_DVRC_8AR" "v_vec.37905_DVRC_8AR" "cp_sca.37935_DVRC_8AR" "h_sca.37945_DVRC_8AR" "cp_sca.37945_DVRC_8AR" "laminarViscosity_sca.37920_DVRC_8AR" "a_sca.37925_DVRC_8AR" "a_sca.37920_DVRC_8AR" "cp_sca.37915_DVRC_8AR" "laminarViscosity_sca.37935_DVRC_8AR" "qh_sca.37930_DVRC_8AR" "a_sca.37935_DVRC_8AR" "qh_sca.37945_DVRC_8AR" "pg_sca.37915_DVRC_8AR" "qh_sca.37920_DVRC_8AR" "laminarViscosity_sca.37925_DVRC_8AR" "tf_sca.37925_DVRC_8AR" "cp_sca.37940_DVRC_8AR" "cp_sca.37920_DVRC_8AR" "v_vec.37940_DVRC_8AR" "r_sca.37950_DVRC_8AR" "qh_sca.37940_DVRC_8AR" "tf_sca.37940_DVRC_8AR" "qh_sca.37905_DVRC_8AR" "pg_sca.37905_DVRC_8AR" "r_sca.37940_DVRC_8AR" "pg_sca.37950_DVRC_8AR" "v_vec.37915_DVRC_8AR" "tf_sca.37935_DVRC_8AR" "h_sca.37910_DVRC_8AR" "tf_sca.37930_DVRC_8AR" "a_sca.37930_DVRC_8AR" "kconduct_sca.37915_DVRC_8AR" "r_sca.37930_DVRC_8AR" "a_sca.37945_DVRC_8AR" "kconduct_sca.37930_DVRC_8AR" "v_vec.37925_DVRC_8AR" "h_sca.37940_DVRC_8AR" "r_sca.37915_DVRC_8AR" "a_sca.37950_DVRC_8AR" "kconduct_sca.37935_DVRC_8AR" "laminarViscosity_sca.37940_DVRC_8AR" "v_vec.37930_DVRC_8AR" "qh_sca.37935_DVRC_8AR" "h_sca.37930_DVRC_8AR" "h_sca.37915_DVRC_8AR" "a_sca.37915_DVRC_8AR" "r_sca.37905_DVRC_8AR" "cp_sca.37905_DVRC_8AR" "laminarViscosity_sca.37950_DVRC_8AR" "r_sca.37935_DVRC_8AR" "cp_sca.37950_DVRC_8AR" "tf_sca.37915_DVRC_8AR" "laminarViscosity_sca.37910_DVRC_8AR")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/SimDAT/" (22565 754 729339 361000) "../" "SteadyField.vtk" "./" "TimeSteps.dat" "Stability.txt")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/PressureVelocityHelmholtz/" (22564 38349 366401 921000) "PressureVelocityHelmholtzoptions.inp" "PressureVelocityHelmholtzIO.hpp" "../" "BoundaryConditions.inp" "SimplePlot2DWave.inp" "Solution/" "PressureVelocityHelmholtz" "Compile.sh" "PressureVelocityHelmholtz.cpp" "./" "README.md")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/TimeAccurateWestervelt/" (22564 38349 446399 832000) "TimeAccurateWestervelt" "../" "BoundaryConditions.inp" "Compile.sh" "./" "TimeAccurateWesterveltIO.hpp" "README.md" "TimeAccurateWesterveltoptions.inp" "TimeAccurateWestervelt.cpp")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/LinearEuler/" (22564 38349 358402 130000) "LinearEuleroptions.inp" "../" "Compile.sh" "./" "LinearEuler" "GenerateMeanFlow.py" "LinearEuler.cpp" "LinearEulerIO.hpp")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/TimeAccurateHelmholtz/" (22564 38349 434400 143000) "TimeAccurateHelmholtz" "../" "BoundaryConditions.inp" "TimeAccurateHelmholtzIO.hpp" "TimeAccurateHelmholtzoptions.inp" "Compile.sh" "./" "README.md" "TimeAccurateHelmholtz.cpp")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/RES-101 China Lake/" (22563 31804 459786 391000) "../" "Animations/" "./" "CIcourse.org" "Supporting Material/" "Presentation/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/GridProcessing/" (22564 35702 627904 409000) "mirrorSolution.py" "ConvertFormat.cpp" "GridProcessingoptions.inp" "GenerateBoundaries.py" "ConvertFormatoption.inp" "../" "Plot3DBlockDeletion.py" "Compile.sh" "ConvertFormat" "ConvertFormatIO.hpp" "GridProcessingIO.hpp" "./" "GMFDataRead.py" "GenerateP2D.py" ".git/" "mirrorP2D.py" "README.md" "DataRead.py" "GMFboundaries.inp" "LociChemDataRead.py" "GenerateP3D.py" "BoundaryVisualization.py" "MSFCoptions.inp" "ConvertFormatCompile.sh" "GridProcessing.cpp" "Plot3Dboundaries.inp" "GridProcessing" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/" (22564 58494 830558 25000) "PressureVelocityHelmholtzoptions.inp" "SimpleDuct.hdf" "GridProcessingoptions.inp" "SSE_pulser_1.hdf" "duct3Dtetwithviscouslayers.mesh" "ThreeDCylinder.hdf" "MeanFlow/" "LinearEuleroptions.inp" "SimpleDuct.mesh" "../" "BoundaryConditions.inp" "Euler/" "SSE_pulser_1.mesh" "Study1.hdf" "Mesh_2.mesh" "TimeAccurateHelmholtzoptions.inp" "Group_1.mesh" "pipe2Dquadwithviscouslayers.mesh" "pipe2Dquad.mesh" "Ductboundaries.inp" "Helmholtz/" ".LinearEuleroptions.inp.swp" "PressureVelocity/" "Euleroptions.inp" "Mesh_1.mesh" "duct3Dhex.mesh" "./" "LinearEuler/" "Westervelt/" "Pulserboundaries.inp" "GMFboundaries.inp" "pipe2Dtri.mesh" "pipe2Dtriwithviscouslayers.mesh" ".GridProcessingoptions.inp.swp" "ProcessedGrid/" "TimeAccurateWesterveltoptions.inp" "ThreeDCylinder.mesh" "Study2.hdf" "Chamber_JRG_v1p2_2D.STEP" "GMF3DBoundaries.inp" "duct3Dtet.mesh")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/Euler/" (22564 59281 966755 832000) "Euler.cpp" "EulerIO.hpp" "../" "Euler" "Compile.sh" "Euleroptions.inp" "./" "GenerateMeanFlow.py")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/MeanFlow/" (22564 55349 729575 241000) "Uy.dat" "rho0.dat" "T0.dat" "../" "MeanFlow.vtk" "./" "Uz.dat" "p0.dat" "GenerateMeanFlow.py" "Ux.dat")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/SPH/" (22560 47849 519082 685000) "../" "SPHFunctions.hpp" "Compile.sh" "SPHMain.cpp" "./" ".git/" "SPHoptions.inp" "SPHMain" "SPHIO.hpp")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/AcousticWaveSolver/" (22564 45335 123133 237000) "TimeAccurateWestervelt/" "TimeAccurateHelmholtz/" "../" "Euler/" "PressureVelocityHelmholtz/" "./" "LinearEuler/" ".git/" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SalomeMeshes/ProcessedGrid/" (22543 41496 52077 676000) "BoundaryIndex.dat" "InnerConnections.dat" "Sz.dat" "x.dat" "ny.dat" "y.dat" "yCells.dat" "xCells.dat" "../" "SimpleDuct.vtk" "Owner.dat" "Volume.dat" "nz.dat" "yBoundaryFaces.dat" "BoundaryNames.dat" "Sx.dat" "Sy.dat" "yFaces.dat" "./" "NodeConnections.dat" "ElementType.dat" "BoundaryElementType.dat" "BoundaryFaces.dat" "xBoundaryFaces.dat" "zFaces.dat" "zBoundaryFaces.dat" "z.dat" "Boundaries/" "zCells.dat" "Faces.dat" "nx.dat" "xFaces.dat")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Engineering/For Josh/" (22564 29542 501602 100000) "cfd.rev2.tina_massflowrate_160822.slip_8-22-2016.tgz" "Basecamp Backup/" "Kali's Files/" "SSE_Geometry_TestFire/" "TestTimeAcc.tar.gz" "resonance_complete.tar.gz" "Flipped Grids/" "users.csv" "SSE_Bobby-Jonathan Report/" "script.sh" "MinGW/" "uh-oh.avi" "cfd.rev2.tina_massflowrate_160822_8-22-2016.tgz" "mat.BlankCylindricalStabilityAnalysis/" "sse_2013_stability_mode_shapes.tgz" "For Josh - Shortcut.lnk" "Thumbs.db" "2D MultiZone Unsteady Field Solvers V2/" "sse_design2_manifold_helmholtz_Rev_B.tgz" ".DS_Store" "Linux Smartcard/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Engineering/" (22560 41605 496520 900000) "For GavinswxJRNL.BAK" "For Gavin/" "For Katlin/" "For Bobby/" "Mendeley Database/" "Cluster Docs/" "Terminated Engineers/" ".TemporaryItems/" "Interns/" "Credit Applications/" "VNC Address Book/" ".DS_Store" "For Tina/" "GTL Technical Document Templates/" "Patents/" "Conferences/" "CNC/" "CAD/" "IR&D/" "Side Projects/" "For Charlie/" "Presentations/" "For Josh/" "For Jonathan/" "For Jake/" "For Justin/" "For Eric/" "For Steven/" "For Curtis/" "CFD_Repository/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/NAS-112 MSFC SimDAT/" (22324 39344 494483 600000) "3. Development/" "2. Administrative/" "1. Proposal/" "11. Supporting Material/" "10. Future Work and Proposals/" "9. Presentations/" "8. Reports/" "7. Multimedia/" "6. Subcontracted Work/" "5. CAD Drawings/" "4. Data and Codes/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/" (22538 25699 79448 200000) "DAR-104 New DARPA Phase I/" "RES-101 China Lake/" "RES-100 Aerojet/" "DAR-102 Integrated Air Frame System/" "AFR-105 Augmentor Damping Phase II/" "NAS-115 Active Radiation Shield/" "NAS-114 Structural Nervous System/" "OVD-103-6-COMAS/" "TAM-100 MSTAR/" "MDA-101 Phase II Extension/" "NAS-108 Ace Booster/" "NAS-109 Spherical Tank/" "NAS-111 Advanced Hybrid/" "NAS-112 MSFC SimDAT/" "NVY-102 Flywheel/" "SMC-100 ORSC/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/RES-101 China Lake/3. Development/" (22563 34710 396836 900000) "CIcourse.org" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/ActiveContracts/RES-101 China Lake/" (22538 25608 649239 700000) "9. Presentations/" "8. Reports/" "7. Multimedia/" "6. Subcontracted Work/" "5. CAD Drawings/" "4. Data and Codes/" "3. Development/" "2. Administrative/" "11. Supporting Material/" "10. Future Work and Proposals/" "1. Proposal/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/" (22563 25457 737478 716000) "../" "MSFC-SimDAT/" "./" "NAS-108-NORPS/" "SMC/" "RES-101 China Lake/" "MDA-MSTAR-TA&M/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/GTL_Libraries/" (22470 2003 816349 276000) "../" "c++/" "tags" "./" ".git/" "README.md" ".gitmodules" "python/" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/HeatTransfer/ProcessedGrid/" (22560 36094 707536 190000) "BoundaryIndex.dat" "InnerConnections.dat" "Sz.dat" "x.dat" "ny.dat" "y.dat" "yCells.dat" "xCells.dat" "../" "Owner.dat" "Volume.dat" "OneByOneByFiveBox.vtk" "nz.dat" "yBoundaryFaces.dat" "BoundaryNames.dat" "Sx.dat" "Sy.dat" "yFaces.dat" "./" "NodeConnections.dat" "ElementType.dat" "BoundaryElementType.dat" "BoundaryFaces.dat" "xBoundaryFaces.dat" "zFaces.dat" "zBoundaryFaces.dat" "z.dat" "OneByOneByFiveHole.vtk" "Boundaries/" "zCells.dat" "Faces.dat" "nx.dat" "xFaces.dat" "OneByOneByFivePlate.vtk")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/" (22551 16678 77994 85000) "HeatTransfer/" "Plot3DConvert/" "../" "3D_1076Hz_Chamber_Driven/" "SSE_3D_Manifold/" "Plot2DConvert/" "./" "DFT_3D_1076_Hz_Manifold_Driven/" "SSE_1154Hz_1L1T/" "MDA_Mirrored_Manifold/" "SalomeMeshes/" "SSE_944Hz_1T/" "Plot2DGridInterpolation/" "LavaLampRev3/" "GTLConvert/" "OpenFOAMConvert/" "SimplePlot2D/" "MDA_3D/" "MirroredEngine/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/HeatTransfer/Unsteady/" (22562 15332 676110 922000) "MaterialInput2.inp" "MaterialInput.inp" "Custom.inp" "../" "BoundaryConditions.inp" "HeatTransferoptions.inp" "HeatTransferUnsteadyIO.hpp" "Compile.sh" "MatlProp.py" "./" "README.md" "HeatTransferBC.hpp" "HeatTransferUnsteady" "Plot3Dboundaries.inp" "HeatTransferUnsteady.cpp")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/MSFCSIMDATTransfer/" (22561 60206 203936 537000) "cpp.Libraries/" "README" "Injector2_1390Hz/" "../" "Transfered/" "./" "Injector2Grid/" "history.txt" "cpp.SimDAT/" "Injector2_700Hz/" "cpp.H5Easy/" "libsz.so.2")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/SecondaryDrive/Contracts/MSFC-SimDAT/Injector2/ProbeData/" (22532 61719 571256 987000) "pg_atPos_7.97572571731e-05_0.216847877256_2.98112975592e-05.h5" "TimeInterval.dat" "pg_atPos_0.0202335290773_0.191533058387_0.000220978430573.h5" "pg_atPos_0.02796032_0.1715769746_-1.740408e-06.h5" "pg_atPos_0.02036258056_0.171577_0.00019273012.dat" "pg_atPos_0.0100849449206_0.191389212168_-3.14870276301e-07.h5" "pg_atPos_0.000110144759833_0.191444923719_0.000106863521153.h5" "pg_atPos_0.0202335290773_0.191533058387_0.000220978430573.dat" "pg_atPos_0.000110144759833_0.191444923719_0.000106863521153.dat" "pg_atPos_0.02796032_0.1715769746_-1.740408e-06.dat" "../" "pg_atPos_1.99929241702e-05_0.166152281596_-6.89177337618e-05.dat" "pg_atPos_7.97572571731e-05_0.216847877256_2.98112975592e-05.dat" "pg_atPos_0.0284675326_0.2169999978_-3.80492e-06.h5" "pg_atPos_0.0203122898071_0.216609608289_-0.000499075828935.h5" "pg_atPos_0.0284681676_0.1915553954_-3.50774e-06.h5" "pg_atPos_0.007366_0.1661639552_-1.919478e-07.h5" "pg_atPos_0.02036258056_0.171577_0.00019273012.h5" "pg_atPos_0.0284681676_0.1915553954_-3.50774e-06.dat" "./" "pg_atPos_0.0203122898071_0.216609608289_-0.000499075828935.dat" "pg_atPos_1.99929241702e-05_0.166152281596_-6.89177337618e-05.h5" "pg_atPos_0.0284675326_0.2169999978_-3.80492e-06.dat" "pg_atPos_0.007366_0.1661639552_-1.919478e-07.dat" "pg_atPos_0.0103350698765_0.216901945749_0.000231340821128.h5" "pg_atPos_0.0103350698765_0.216901945749_0.000231340821128.dat" "pg_atPos_0.0100849449206_0.191389212168_-3.14870276301e-07.dat")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Python/PadZero/" (22562 3090 898935 900000) "../" "./" ".git/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/GitRepos/josh.batterson/" (22500 12855 753987 200000) "HomeConfig/" "Shell/" "C++/" "Matlab/" "Projects/" "Fortran/" "Python/" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Python/ConvergingODE/" (22469 39449 919308 868000) "../" "ConvergingODE.py" "./" ".git/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/Data/SimplePlot2D/" (22560 36111 303098 294000) "PressureVelocityHelmholtzoptions.inp" "HeatTransfer/" "GridProcessingoptions.inp" "MeanFlow/" "LinearEuleroptions.inp" "MaterialProperties/" "BoundaryConditions.inp" "HeatTransferoptions.inp" "Solution/" "TimeAccurateHelmholtzoptions.inp" "GenerateP2D.py" "HeatBoundaryConditions.inp" "restart/" "Boundaries/" "ProcessedGrid/" "grid2d.xyz" "TimeAccurateWesterveltoptions.inp" "plot3dboundaries.inp" "../" "./")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/DiscreteFourierAnalysis/" (22554 17995 53153 490000) "../" "DiscreteFourierAnalysis.cpp" "Compile.sh" "./" "DFToptions.inp" ".git/" "VTK/" "DiscreteFourierAnalysisIO.hpp" "DiscreteFourierAnalysis" "variables.inp" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/" (22478 50422 246092 870000) "GTL_Libraries/" "Shell/" "Matlab/" "../" ".Python.swo" "run.sh" "OtherPrograms/" "git_GTL_Libraries.sh" "Python/" "./" "Projects/" "C++/" ".Python.swp" "Add Ons/" "RunScript.bat" "References/" "Fortran/" ".gitignore")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/" (22561 54806 125833 241000) "HeatTransfer/" "SimDAT/" "../" "Resonance_Licensed/" "Convert2VTK/" "SPH/" "Probe/" "./" "Resonance/" "AcousticWaveSolver/" "StabilityIntegration/" "EntropyWaveSolver/" "Tasks/" "GridInterpolation/" "DiscreteFourierAnalysis/" "Data/" "GridProcessing/" "VorticityWaveSolver/")
+
+ ("/home/josh.batterson@corp.gtlcompany.com/Programming/Projects/GridConvert/" (22561 54704 524504 58000) "../" "./" ".git/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,5 @@
+ls
+cd SPH/
+./Compile.sh 
+exit
+ls

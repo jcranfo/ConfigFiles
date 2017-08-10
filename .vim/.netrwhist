@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/jake.cranford@corp.gtlcompany.com/Programming/GTL_Libraries/python'
+let g:netrw_dirhist_2='/media/Data/Projects/InjectorStudy/Admittance/2InjOptions'
+let g:netrw_dirhist_3='/media/Data/Projects/InjectorStudy/1InjTransverse/1000HzV1'
+let g:netrw_dirhist_4='/media/Data/Projects/InjectorStudy/1InjTransverse/1000HzV1/Solution'
+let g:netrw_dirhist_5='/media/Data/Projects/InjectorStudy/1InjTransverse/1000HzV1/Solution/0'
+let g:netrw_dirhist_6='/media/Data/Projects/InjectorStudy/1InjTransverse/1000HzV1/Stability'
+let g:netrw_dirhist_7='/media/Data/Projects/InjectorStudy/Admittance/2InjOptions'
+let g:netrw_dirhist_8='/home/jake.cranford@corp.gtlcompany.com/Projects/SMC-100-ORSC/InjectorStudy/2InjTransverse'

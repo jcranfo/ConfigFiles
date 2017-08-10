@@ -1,0 +1,7 @@
+pane	0	1	:~	1	:*	0	:/home/josh	1	zsh	:
+pane	Ressurect	1	:vim	1	:*	0	:/home/josh/Programming/Python/py.2DAdvectionV2	1	vim	:vim -S
+pane	Ressurect	2	:~	0	:-	0	:/home/josh	1	zsh	:
+window	0	1	1	:*	cb9d,206x57,0,0,0
+window	Ressurect	1	1	:*	cb9e,206x57,0,0,1
+window	Ressurect	2	0	:-	cb9f,206x57,0,0,2
+state	Ressurect	0

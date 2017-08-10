@@ -1,0 +1,15 @@
+pane	Helmholtz	1	:..y.2DHelmholtz	0	:-	0	:/home/josh/Programming/Python/py.2DHelmholtz	1	zsh	:
+pane	Helmholtz	1	:..y.2DHelmholtz	0	:-	1	:/home/josh/Programming/Python/py.2DHelmholtz	0	zsh	:
+pane	Helmholtz	1	:..y.2DHelmholtz	0	:-	2	:/home/josh	0	htop	:htop
+pane	Helmholtz	2	:vim	1	:*	0	:/home/josh/Programming/Python/py.2DHelmholtz	1	vim	:vim UnsteadyHelmholtz.py
+pane	SimDAT	1	:htop	1	:*	0	:/home/josh/Programming/Python/py.2DOpenFOAMSimDAT	0	zsh	:
+pane	SimDAT	1	:htop	1	:*	1	:/home/josh/Programming/Python/py.2DOpenFOAMSimDAT	0	zsh	:
+pane	SimDAT	1	:htop	1	:*	2	:/home/josh	1	htop	:htop
+pane	SimDAT	2	:vim	0	:-	0	:/home/josh/Programming/Python	1	vim	:vim py.2DOpenFOAMSimDAT/OpenFOAMSimDAT.py
+pane	markdown	1	:vim	1	:*	0	:/home/josh	1	vim	:vim GTLDocuments/Tasks.md
+window	Helmholtz	1	0	:-	f238,206x57,0,0{103x57,0,0,1,102x57,104,0[102x28,104,0,2,102x28,104,29,3]}
+window	Helmholtz	2	1	:*	cba1,206x57,0,0,4
+window	SimDAT	1	1	:*	65b7,206x57,0,0{103x57,0,0,10,102x57,104,0[102x28,104,0,12,102x28,104,29,13]}
+window	SimDAT	2	0	:-	cba3,206x57,0,0,6
+window	markdown	1	1	:*	cba4,206x57,0,0,7
+state	SimDAT	
